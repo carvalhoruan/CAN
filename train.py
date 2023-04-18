@@ -41,9 +41,10 @@ params['device'] = device
 if args.dataset == 'CROHME':
     train_loader, eval_loader = get_crohme_dataset(params)
     
-#with tqdm(train_loader, total=len(train_loader)) as pbar:
+# with tqdm(train_loader, total=len(train_loader)) as pbar:
 #    for batch_idx, (images, image_masks, labels, label_masks) in enumerate(pbar):
 #        for batch_i in range(images.numpy().shape[0]):
+#            print(images.numpy()[batch_i,0,:,:].shape)
 #            cv2.imshow('image', images.numpy()[batch_i,0,:,:])
 #            cv2.waitKey()
 
