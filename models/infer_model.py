@@ -106,7 +106,7 @@ class AttDecoder(nn.Module):
         image_mask = torch.ones((batch_size, 1, height, width)).to(self.device)
         
         cnn_features_trans = self.encoder_feature_conv(cnn_features)
-        position_embedding = PositionEmbeddingSine(256, normalize=True)
+        position_embedding = PositionEmbeddingSine(64, normalize=True)
         pos = position_embedding(cnn_features_trans, image_mask[:,0,:,:])
         cnn_features_trans = cnn_features_trans + pos
 

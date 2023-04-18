@@ -6,7 +6,7 @@ seed: 20211024
 
 # 训练参数
 epochs: 240
-batch_size: 32
+batch_size: 4
 workers: 0
 train_parts: 1
 valid_parts: 1
@@ -63,7 +63,7 @@ counting_decoder:
   out_channel: 22
 
 attention:
-  attention_dim: 512
+  attention_dim: 128
   word_conv_kernel: 1
 
 attention_map_vis_path: 'vis/attention_map'
@@ -75,5 +75,5 @@ max_step: 256
 optimizer_save: False
 finetune: False
 checkpoint_dir: 'checkpoints'
-checkpoint: "checkpoints/CAN_2023-03-27-19-22_decoder-AttDecoder/CAN_2023-03-27-19-22_decoder-AttDecoder_WordRate-0.4467_ExpRate-0.0000_26.pth"
+#checkpoint: "checkpoints/CAN_2023-03-27-19-22_decoder-AttDecoder/CAN_2023-03-27-19-22_decoder-AttDecoder_WordRate-0.4467_ExpRate-0.0000_26.pth"
 log_dir: 'logs'

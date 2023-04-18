@@ -98,7 +98,7 @@ class AttDecoder(nn.Module):
         #print("\n\nCNN FEATURES_TRANS: " + str(cnn_features_trans.size()))
         
         #era 256 abaixo: troquei por 64. Deve ser metade de attention_dim
-        position_embedding = PositionEmbeddingSine(256, normalize=True)
+        position_embedding = PositionEmbeddingSine(64, normalize=True)
         pos = position_embedding(cnn_features_trans, images_mask[:,0,:,:])
         
         #print("\n\POS: " + str(pos.size()))

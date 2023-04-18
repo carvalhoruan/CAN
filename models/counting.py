@@ -27,11 +27,11 @@ class CountingDecoder(nn.Module):
         self.out_channel = out_channel
         #troquei 512 por 128
         self.trans_layer = nn.Sequential(
-            nn.Conv2d(self.in_channel, 512, kernel_size=kernel_size, padding=kernel_size//2, bias=False),
-            nn.BatchNorm2d(512))
-        self.channel_att = ChannelAtt(512, 16)
+            nn.Conv2d(self.in_channel, 128, kernel_size=kernel_size, padding=kernel_size//2, bias=False),
+            nn.BatchNorm2d(128))
+        self.channel_att = ChannelAtt(128, 16)
         self.pred_layer = nn.Sequential(
-            nn.Conv2d(512, self.out_channel, kernel_size=1, bias=False),
+            nn.Conv2d(128, self.out_channel, kernel_size=1, bias=False),
             nn.Sigmoid())
 
     def forward(self, x, mask):
