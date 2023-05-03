@@ -19,19 +19,19 @@ class ChannelAtt(nn.Module):
         y = self.fc(y).view(b, c, 1, 1)
         return x * y
 
-#troquei 512 por 128
+#troquei 512 por attention_dim
 class CountingDecoder(nn.Module):
-    def __init__(self, in_channel, out_channel, kernel_size):
+    def __init__(self, in_channel, out_channel, kernel_size, attention_dim):
         super(CountingDecoder, self).__init__()
         self.in_channel = in_channel
         self.out_channel = out_channel
         #troquei 512 por 128
         self.trans_layer = nn.Sequential(
-            nn.Conv2d(self.in_channel, 128, kernel_size=kernel_size, padding=kernel_size//2, bias=False),
-            nn.BatchNorm2d(128))
-        self.channel_att = ChannelAtt(128, 16)
+            nn.Conv2d(self.in_channel, attention_dim, kernel_size=kernel_size, padding=kernel_size//2, bias=False),
+            nn.BatchNorm2d(attention_dim))
+        self.channel_att = ChannelAtt(attention_dim, 16)
         self.pred_layer = nn.Sequential(
-            nn.Conv2d(128, self.out_channel, kernel_size=1, bias=False),
+            nn.Conv2d(attention_dim, self.out_channel, kernel_size=1, bias=False),
             nn.Sigmoid())
 
     def forward(self, x, mask):
