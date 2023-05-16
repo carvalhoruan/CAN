@@ -2,10 +2,10 @@
 experiment: "CAN"
 
 # 随机种子
-seed: 20211024
+#seed: 20211024
 
 # 训练参数
-epochs: 240
+epochs: 500
 batch_size: 8
 workers: 0
 train_parts: 1
@@ -30,11 +30,11 @@ gradient_clip: True
 use_label_mask: False
 
 # 训练数据
-train_image_path: 'datasets/train_images.pkl'
-train_label_path: 'datasets/train_labels.txt'
+train_image_path: 'datasets/optuna/train_image.pkl'
+train_label_path: 'datasets/optuna/train_labels.txt'
 
-eval_image_path: 'datasets/test_images.pkl'
-eval_label_path: 'datasets/test_labels.txt'
+eval_image_path: 'datasets/optuna/test_image.pkl'
+eval_label_path: 'datasets/optuna/test_labels.txt'
 
 word_path: 'datasets/word.txt'
 
@@ -43,28 +43,28 @@ collate_fn: collate_fn
 
 densenet:
   ratio: 16
-  nDenseBlocks: 8
-  growthRate: 8
+  nDenseBlocks: 16
+  growthRate: 24
   reduction: 0.5
   bottleneck: True
   use_dropout: True
 
 encoder:
   input_channel: 1
-  out_channel: 116
+  out_channel: 684
 
 decoder:
   net: AttDecoder
   cell: 'GRU'
-  input_size: 256
-  hidden_size: 256
+  input_size: 64
+  hidden_size: 64
 
 counting_decoder:
-  in_channel: 116
+  in_channel: 684
   out_channel: 22
 
 attention:
-  attention_dim: 128
+  attention_dim: 256
   word_conv_kernel: 1
 
 attention_map_vis_path: 'vis/attention_map'
@@ -76,5 +76,6 @@ max_step: 256
 optimizer_save: False
 finetune: False
 checkpoint_dir: 'checkpoints'
-#checkpoint: "checkpoints/CAN_2023-03-27-19-22_decoder-AttDecoder/CAN_2023-03-27-19-22_decoder-AttDecoder_WordRate-0.4467_ExpRate-0.0000_26.pth"
+checkpoint: "checkpoints/CAN_2023-05-10-09-43_decoder-AttDecoder/CAN_2023-05-10-09-43_decoder-AttDecoder_WordRate-0.9341_ExpRate-0.3696_33.pth"
 log_dir: 'logs'
+data_augmentation: 100
