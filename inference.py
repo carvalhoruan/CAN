@@ -44,6 +44,7 @@ model = Inference(params, draw_map=args.draw_map)
 model = model.to(device)
 
 load_checkpoint(model, None, params['checkpoint'])
+print(params['checkpoint'])
 model.eval()
 
 with open(args.image_path, 'rb') as f:
@@ -65,7 +66,8 @@ with torch.no_grad():
         input_labels = labels
         labels = ' '.join(labels)
         img = images[name]
-        img = torch.Tensor(255-img) / 255
+        #img = torch.Tensor(255-img) / 255
+        img = torch.Tensor(img) / 255
         img = img.unsqueeze(0).unsqueeze(0)
         img = img.to(device)
         a = time.time()

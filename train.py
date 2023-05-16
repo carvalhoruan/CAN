@@ -29,10 +29,10 @@ if args.dataset == 'CROHME':
 params = load_config(config_file)
 
 """设置随机种子"""
-random.seed(params['seed'])
-np.random.seed(params['seed'])
-torch.manual_seed(params['seed'])
-torch.cuda.manual_seed(params['seed'])
+#random.seed(params['seed'])
+#np.random.seed(params['seed'])
+#torch.manual_seed(params['seed'])
+#torch.cuda.manual_seed(params['seed'])
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -87,6 +87,6 @@ if args.dataset == 'CROHME':
                 min_score = eval_exprate
                 save_checkpoint(model, optimizer, eval_word_score, eval_exprate, epoch+1,
                                 optimizer_save=params['optimizer_save'], path=params['checkpoint_dir'])
-            elif (epoch % 5 == 0) and epoch > 0:
-                save_checkpoint(model, optimizer, eval_word_score, eval_exprate, epoch+1,
-                                optimizer_save=params['optimizer_save'], path=params['checkpoint_dir'])
+            #elif (epoch % 5 == 0) and epoch > 0:
+            #    save_checkpoint(model, optimizer, eval_word_score, eval_exprate, epoch+1,
+            #                    optimizer_save=params['optimizer_save'], path=params['checkpoint_dir'])

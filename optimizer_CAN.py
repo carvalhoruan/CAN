@@ -17,7 +17,7 @@ def evaluation_trial(trial):
     if model == 'CAN':
         decoder_input_size = trial.suggest_categorical('decoder_input_size', [64, 128, 256]) # default: 256
 
-        params = dict(experiment='CAN', epochs=100, batch_size=8, workers=0, 
+        params = dict(experiment='CAN', epochs=500, batch_size=8, workers=0, 
                       train_parts=1, valid_parts=1, valid_start=0, save_start=0, 
                       
                       optimizer='Adadelta', lr=1, lr_decay='cosine', step_ratio=10, step_decay=5, 
@@ -25,8 +25,8 @@ def evaluation_trial(trial):
 
                       dropout=True, dropout_ratio=0.5, relu=True, gradient=100, gradient_clip=True, use_label_mask=False, 
                       
-                      train_image_path='datasets/train_images.pkl', train_label_path='datasets/train_labels.txt',
-                      eval_image_path='datasets/test_images.pkl', eval_label_path='datasets/test_labels.txt',
+                      train_image_path='datasets/optuna/train_image.pkl', train_label_path='datasets/optuna/train_labels.txt',
+                      eval_image_path='datasets/optuna/test_image.pkl', eval_label_path='datasets/optuna/test_labels.txt',
                       word_path='datasets/word.txt', 
                       
                       collate_fn='collate_fn', 
