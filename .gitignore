@@ -5,3 +5,6 @@ can
 
 logs
 checkpoints
+
+#optuna databases
+.db
