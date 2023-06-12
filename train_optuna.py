@@ -13,9 +13,11 @@ from dataset import get_crohme_dataset
 from models.can import CAN
 from training import train, eval
 
+import yaml
+
 def train_test_CAN_model(params=None):
     if params is None:
-        params = dict(experiment='CAN', epochs=240, batch_size=8, workers=0, 
+        params = dict(experiment='CAN', epochs=500, batch_size=8, workers=0, 
                       train_parts=1, valid_parts=1, valid_start=0, save_start=0, 
                       
                       optimizer='Adadelta', lr=1, lr_decay='cosine', step_ratio=10, step_decay=5, 
@@ -23,20 +25,20 @@ def train_test_CAN_model(params=None):
 
                       dropout=True, dropout_ratio=0.5, relu=True, gradient=100, gradient_clip=True, use_label_mask=False, 
                       
-                      train_image_path='datasets/train_images.pkl', train_label_path='datasets/train_labels.txt',
-                      eval_image_path='datasets/test_images.pkl', eval_label_path='datasets/test_labels.txt',
+                      train_image_path='datasets/optuna/train_image.pkl', train_label_path='datasets/optuna/train_labels.txt',
+                      eval_image_path='datasets/optuna/test_image.pkl', eval_label_path='datasets/optuna/test_labels.txt',
                       word_path='datasets/word.txt', 
                       
                       collate_fn='collate_fn', 
-                      densenet={'ratio': 16, 'nDenseBlocks': 8, 'growthRate': 8, 'reduction': 0.5, 'bottleneck': True, 'use_dropout': True},
-                      encoder={'input_channel': 1, 'out_channel': 116}, 
-                      decoder={'net': 'AttDecoder', 'cell': 'GRU', 'input_size': 256, 'hidden_size': 256}, 
-                      counting_decoder={'in_channel': 116, 'out_channel': 22}, 
-                      attention={'attention_dim': 128, 'word_conv_kernel': 1}, 
+                      densenet={'ratio': 16, 'nDenseBlocks': 16, 'growthRate': 24, 'reduction': 0.5, 'bottleneck': True, 'use_dropout': True},
+                      encoder={'input_channel': 1, 'out_channel': 684}, 
+                      decoder={'net': 'AttDecoder', 'cell': 'GRU', 'input_size': 64, 'hidden_size': 64}, 
+                      counting_decoder={'in_channel': 684, 'out_channel': 21}, 
+                      attention={'attention_dim': 256, 'word_conv_kernel': 1}, 
 
                       attention_map_vis_path='vis/attention_map', counting_map_vis_path='vis/counting_map', 
                       whiten_type='None', max_step=256,
-                      optimizer_save=False, finetune=False, checkpoint_dir='checkpoints', data_augmentation=2, log_dir='logs')
+                      optimizer_save=False, finetune=False, checkpoint_dir='checkpoints', data_augmentation=100, log_dir='logs')
         
     from models.densenet import DenseNet
     model_temp = DenseNet(params=params)
@@ -63,6 +65,12 @@ def train_test_CAN_model(params=None):
     print(model.name)
     model = model.to(device)
 
+    os.makedirs(os.path.join(params['checkpoint_dir'], model.name), exist_ok=True)
+    config_path = os.path.join(params['checkpoint_dir'], model.name, model.name) + '.yalm'
+    with open(config_path, 'w') as outfile:
+        yaml.dump(params, outfile, default_flow_style=False)
+    #os.system(f'cp {params} {os.path.join(params["checkpoint_dir"], model.name, model.name)}.yaml')
+
     optimizer = getattr(torch.optim, params['optimizer'])(model.parameters(), lr=float(params['lr']),
                                                       eps=float(params['eps']), weight_decay=float(params['weight_decay']))
     
@@ -81,8 +89,11 @@ def train_test_CAN_model(params=None):
                 max_train_expRate = train_expRate
                 min_step = epoch
 
+                save_checkpoint(model, optimizer, eval_word_score, eval_expRate, epoch+1,
+                                optimizer_save=params['optimizer_save'], path=params['checkpoint_dir'])
+
             # stop if no improvement for more than 30 epochs
-        if (epoch+1) >= min_step + 30:
+        if (epoch+1) >= min_step + 100:
             break
 
     return max_eval_expRate, max_train_expRate

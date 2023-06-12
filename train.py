@@ -29,10 +29,10 @@ if args.dataset == 'CROHME':
 params = load_config(config_file)
 
 """设置随机种子"""
-#random.seed(params['seed'])
-#np.random.seed(params['seed'])
-#torch.manual_seed(params['seed'])
-#torch.cuda.manual_seed(params['seed'])
+random.seed(params['seed'])
+np.random.seed(params['seed'])
+torch.manual_seed(params['seed'])
+torch.cuda.manual_seed(params['seed'])
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')

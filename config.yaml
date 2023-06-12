@@ -2,7 +2,7 @@
 experiment: "CAN"
 
 # 随机种子
-#seed: 20211024
+seed: 20242024
 
 # 训练参数
 epochs: 500
@@ -61,7 +61,7 @@ decoder:
 
 counting_decoder:
   in_channel: 684
-  out_channel: 22
+  out_channel: 21
 
 attention:
   attention_dim: 256
@@ -76,6 +76,6 @@ max_step: 256
 optimizer_save: False
 finetune: False
 checkpoint_dir: 'checkpoints'
-checkpoint: "checkpoints/CAN_2023-05-10-09-43_decoder-AttDecoder/CAN_2023-05-10-09-43_decoder-AttDecoder_WordRate-0.9341_ExpRate-0.3696_33.pth"
+checkpoint: "checkpoints/CAN_2023-05-20-18-01_decoder-AttDecoder/CAN_2023-05-20-18-01_decoder-AttDecoder_WordRate-0.9780_ExpRate-0.8261_167.pth"
 log_dir: 'logs'
 data_augmentation: 100

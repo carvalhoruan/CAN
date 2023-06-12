@@ -5,7 +5,9 @@ import matplotlib.pyplot as plt
 
 for study_name, storage_name in [
                         #['optimize_HME_100k_reduced_SAN', 'sqlite:///optimize_HME_100k_reduced_SAN.db'],
-                        ['optimize_Base_Soma_Subtr_CAN', 'sqlite:///optimize_Base_Soma_Subtr_CAN.db'],
+                        #['optimize_Base_Soma_Subtr_CAN', 'sqlite:///optimize_Base_Soma_Subtr_CAN.db'],
+                        #['optimize_Base_Soma_Subtr_BTTR', 'sqlite:///optimize_Base_Soma_Subtr_BTTR.db'],
+                        ['optimize_Base_Soma_Subtr_COMER', 'sqlite:///optimize_Base_Soma_Subtr_COMER_zero.db'],
                     ]:
 
     print(study_name)
