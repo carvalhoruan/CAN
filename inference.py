@@ -14,9 +14,9 @@ from counting_utils import gen_counting_label
 
 parser = argparse.ArgumentParser(description='model testing')
 parser.add_argument('--dataset', default='CROHME', type=str, help='数据集名称')
-parser.add_argument('--image_path', default='datasets/CROHME/14_test_images.pkl', type=str, help='测试image路径')
-parser.add_argument('--label_path', default='datasets/CROHME/14_test_labels.txt', type=str, help='测试label路径')
-parser.add_argument('--word_path', default='datasets/CROHME/words_dict.txt', type=str, help='测试dict路径')
+parser.add_argument('--image_path', default='datasets/optuna/test_image.pkl', type=str, help='测试image路径')
+parser.add_argument('--label_path', default='datasets/optuna/test_labels.txt', type=str, help='测试label路径')
+parser.add_argument('--word_path', default='datasets/word.txt', type=str, help='测试dict路径')
 
 parser.add_argument('--draw_map', default=False)
 args = parser.parse_args()
@@ -44,6 +44,7 @@ model = Inference(params, draw_map=args.draw_map)
 model = model.to(device)
 
 load_checkpoint(model, None, params['checkpoint'])
+print(params['checkpoint'])
 model.eval()
 
 with open(args.image_path, 'rb') as f:
@@ -65,7 +66,8 @@ with torch.no_grad():
         input_labels = labels
         labels = ' '.join(labels)
         img = images[name]
-        img = torch.Tensor(255-img) / 255
+        #img = torch.Tensor(255-img) / 255
+        img = torch.Tensor(img) / 255
         img = img.unsqueeze(0).unsqueeze(0)
         img = img.to(device)
         a = time.time()
@@ -80,8 +82,10 @@ with torch.no_grad():
         model_time += (time.time() - a)
 
         prediction = words.decode(probs)
+        prediction = prediction.replace(' eos', '')
         if prediction == labels:
             line_right += 1
+            print("\n\nACERTOU! " + name)
         else:
             bad_case[name] = {
                 'label': labels,
@@ -91,7 +95,6 @@ with torch.no_grad():
 
         distance = compute_edit_distance(prediction, labels)
         if distance <= 1:
-            print("\n\nACERTOU! " + name)
             e1 += 1
         if distance <= 2:
             e2 += 1

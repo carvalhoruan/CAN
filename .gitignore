@@ -1,0 +1,15 @@
+__pycache__
+
+#ambiente virtual can
+can
+
+logs
+checkpoints
+
+#optuna databases
+*.db
+
+paper.pdf
+
+datasets/hme7k/train_image.pkl
+datasets/hme7k/train_image_150.pkl

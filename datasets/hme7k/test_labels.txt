@@ -1,0 +1,2202 @@
+train_108274.jpg	= - 7
+train_111083.jpg	3 7
+train_70739.jpg	0 1 1 1 1 2 1
+train_66180.jpg	4 9 4 = 9 - 8 = 1
+train_64799.jpg	2 2 9 - 1 3 = 2 1 6
+train_70675.jpg	1 6
+train_106720.jpg	= 4 + 3 - 6 + 9
+train_72221.jpg	2 4 3 - 2 0 5 = 3 8
+train_60665.jpg	2
+train_2938.jpg	3 8 + 3 3 = 7 1
+train_111002.jpg	1 6 + 1 6 + 9 + 9 = 5 0 ,
+train_91525.jpg	= 1 5 - 7 = 8
+train_68964.jpg	4 3
+train_70853.jpg	2 3 - 1 1 = 1 2
+train_66977.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+test_23185.jpg	x = 0 , 1 + 1 = 2
+train_61639.jpg	9 8 1 - 5 0 0 = 4 8 1
+train_72304.jpg	2 7 = 9 8
+train_71260.jpg	2 4
+train_22234.jpg	6 9 - 3 7 - 6 = 2 6
+train_65521.jpg	5 3 - 3 = 5 0
+train_76227.jpg	2 1 0 - 5 = 2 0 5
+train_69305.jpg	1 3 0 - 9 1 = 3 9
+train_36587.jpg	9 - 7 = 2
+train_110198.jpg	= - 1 8 + 3 2 - 6 0
+train_63437.jpg	3 2
+train_78678.jpg	1 , 2 , 3 , 6
+train_66328.jpg	= 1
+train_105582.jpg	x = 3
+train_66215.jpg	= - 2 - 4
+test_3924.jpg	1 7 - 9 = 8
+train_106879.jpg	= 2
+train_68784.jpg	= 1 6 0
+train_80288.jpg	3 + 3 + 3 = 9
+train_68922.jpg	= 2 5 + 1
+train_66106.jpg	= - 6 9
+train_62727.jpg	3 0 3
+train_102485.jpg	x = 1 1
+train_105419.jpg	= 8
+train_68022.jpg	5 2 + 1 = 5 3
+train_68701.jpg	+ 1 0
+train_65411.jpg	5 3 - 2 = 5 0
+train_74294.jpg	8 + 1 3 = 2 1
+train_64713.jpg	2 4 3 - 2 0 5 = 3 8
+train_96569.jpg	5 5 + 3 2 = 8 7
+train_72863.jpg	1 1 8 + 7 0 = 1 8 8
+train_71794.jpg	3 6 1 - 1 0 2 = 2 5 9
+train_103789.jpg	= + 8 1 + 1 2
+train_73654.jpg	1 3
+train_72680.jpg	= 3 5
+train_66025.jpg	= - 9 - 8 + 1
+train_67318.jpg	2 4 5 - 2 = 2 4 3
+train_107107.jpg	= - 9 + 8 + 1
+train_64997.jpg	5 4 5 - 5 = 5 4 0
+train_69071.jpg	4 3 - 7 = 3 6
+train_111007.jpg	2 9 0 - 2 3 3 = 5 7
+train_65883.jpg	= 7 7 0
+train_106975.jpg	x = 4
+train_72082.jpg	3 0 0 - 2 0 5 = 9 5
+train_78649.jpg	2 + 2 + 2 + 1 = 7
+train_93920.jpg	8 1 7 - 2 8 3 = 5 7 4
+train_110813.jpg	8 8 - 8 1 = 7
+train_78482.jpg	4 0
+train_64245.jpg	2 9
+train_16896.jpg	9 2 + 5 = 9 7
+train_70115.jpg	3 3 2 2
+train_103756.jpg	= - 6
+train_69943.jpg	8
+train_65438.jpg	1 4 8
+train_1880.jpg	4 9 - 7 =
+train_64935.jpg	3 0 0 - 2 4 3 = 5 1
+train_13299.jpg	7 0 4 + 1 2 7 = 8 3 1
+train_67359.jpg	1 5 + 2 0 = 3 5
+train_85060.jpg	8 5 7 - 2 8 3 = 5 7 4
+train_67908.jpg	4 9 + 4 = 5 3
+train_89196.jpg	= 4 5 0 0
+train_72089.jpg	4 1 - 2 3 = 1 8
+train_71295.jpg	2 4 3 - 2 0 5 = 3 8
+train_105168.jpg	- 3
+train_72928.jpg	5 3 - 3 = 4 9
+train_73391.jpg	1 0 5 - 1 = 1 0 4
+train_75312.jpg	x = 1 9
+train_100110.jpg	9 2 - 2 2 = 7 0
+train_67916.jpg	1 + 1 + 3 + 5 + 7 + 9 + 1 1 + 1 3
+train_73141.jpg	2 1 - 1 = 2 0
+train_70674.jpg	4 - 9 + 6 = 1
+train_107365.jpg	= - 2 - 4
+train_29661.jpg	7 + 3 = 1 0 8 + 2 = 1 0
+train_73619.jpg	2 4 3 - 2 0 5 = 3 8
+train_69695.jpg	4 3 - 7 = 3 6
+train_70442.jpg	= 1 0
+train_83973.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_109736.jpg	= - 2 - 4
+train_110413.jpg	x = 2 8
+train_71682.jpg	2 8
+train_67391.jpg	= 0 + 3 + 1 0
+train_74040.jpg	= 1 0 + 5
+train_111374.jpg	4 2 9 - 5 = 4 2 4
+train_111013.jpg	4 5 - 3 1 = 1 4
+train_108094.jpg	= - 8 1 - 8
+train_60600.jpg	9 8 1 - 5 0 0 = 4 8 1
+train_21223.jpg	x = 5 0 0 0
+train_110841.jpg	5 2 = 2 0
+train_20187.jpg	4 0 = 1 0
+train_103709.jpg	= 7 5
+train_64296.jpg	= 1 0 8
+train_65514.jpg	5 3 - 3 = 5 0
+train_79920.jpg	2 5 + 1 5 = 4 0
+train_109839.jpg	= 7 7 0
+train_68512.jpg	3 0 0 2 6 2 2 0 5
+train_73681.jpg	3 7 - 2 = 3 5
+train_70269.jpg	7 4 = 1 , 7 4 , 2 , 3 7 ,
+train_62967.jpg	1 0 0
+train_88410.jpg	= 5 7 6 0 0
+train_70871.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_65035.jpg	2 1 0 - 5 = 2 0 5
+train_75506.jpg	1 0 0 - 8 0 = 2 0
+train_76622.jpg	5 4 0 - 4 6 4 = 7 6
+train_107494.jpg	1 0 + 2 = 1 2
+train_71647.jpg	1 6 4
+train_67477.jpg	4 2 9 - 5 = 4 2 4
+train_109904.jpg	= 1 8 + 3 2 + 6 0
+train_102991.jpg	= - 5
+train_107036.jpg	= - 8 1 + 1 2
+train_111376.jpg	2 1 0 - 5 = 2 0 5
+train_74727.jpg	1 0 1 1 2 2 4 5 8 1 1
+train_67614.jpg	2 8 9 , 3 2 4 , 3 6 0 , 4 0 0
+train_66884.jpg	3 8 1 9
+train_90231.jpg	= 1 2 9 0 0
+train_76059.jpg	8 8 - 8 1 = 7
+train_68389.jpg	3 3 5
+train_68350.jpg	2 1 0 - 5 = 2 0 5
+train_73423.jpg	7 0 - 1 9 = 5 1
+train_106287.jpg	1 3 + 2 2 = 3 5
+train_105615.jpg	4 , 1 1 , 1 8 , 5 3
+train_63285.jpg	= 2 0 7 2
+train_68250.jpg	9 7 - 4 5 = 5 2
+train_74816.jpg	1 8 + 3 + 5 + 7 + 9 + 1 1 = 5 3
+train_66635.jpg	2 8
+train_67699.jpg	= 0
+train_105334.jpg	= 1
+train_102847.jpg	x = 2 0
+train_67629.jpg	3 3 7 - 1 3 = 3 2 4
+train_67813.jpg	= 2 0 7 2
+train_74620.jpg	4 2 9 - 5 = 4 2 4
+train_73353.jpg	x = 3
+train_104392.jpg	= - 1 5
+train_88885.jpg	8 4 5
+train_77879.jpg	1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 8
+train_65168.jpg	3 6 0 0 - 4 1 0 6 - 4 9 0 0
+train_83666.jpg	4 + 4 + 4 = 1 2
+train_105731.jpg	= - 9 + 8 + 1
+train_109969.jpg	x = 0
+train_69162.jpg	3 7
+train_76940.jpg	5 7 - 3 7 = 1 9
+train_72870.jpg	1
+train_91866.jpg	8 7 - 7 1 = 1 6
+train_69595.jpg	3 0 0 - 2 6 2 = 3 8
+train_108352.jpg	x = 9 6
+train_71236.jpg	2 5 0 - 1 0 2 = 1 4 8
+test_19164.jpg	7 0 0 + 4 0 0 = 1 1 0 0
+train_93180.jpg	9 2 - 2 2 = 7 0
+train_102269.jpg	= 5 5 5 5 - 7 7 0
+train_105715.jpg	x = 2 ,
+train_71136.jpg	5 - 4 = 1
+train_83569.jpg	5 + 5 + 5 = 1 5
+train_66894.jpg	3 3 7 - 2 2 9 = 1 0 8
+train_69311.jpg	3 5
+train_110382.jpg	= - 2 4
+train_70505.jpg	1 9 8 5
+train_109117.jpg	= - 6 9
+train_66070.jpg	1 5
+train_71271.jpg	4 1 - 2 3 = 1 8
+train_102458.jpg	= 4 9 5 0
+test_3259.jpg	3 + 5 + 6 = 1 4
+train_62733.jpg	2 1 0 - 5 = 2 0 5
+train_104071.jpg	x = - 5
+train_111439.jpg	2 2 0 5
+train_65800.jpg	= 2 + 2 7 7 5 3 0 5 6 2 4 = 2 7 7 5 3 0 5 6 2 0
+train_103686.jpg	= 4 + 3 - 6 + 9
+train_111662.jpg	x = 1 4
+train_92081.jpg	5 4 + 3 0 = 8 4
+train_67494.jpg	3 3 - 1 1 = 2 2
+train_64189.jpg	x = 3 , 1 3 , 3 9
+train_103170.jpg	= - 2 7 - 2 0 + 2 1
+train_67476.jpg	9 1
+test_24807.jpg	2 4 0 0 0 0 - 4 0 0 0 0 0 - 1 5 0 0 0 - 9 7 2 0 0 = 1 8 8 7 8 0 0
+train_89905.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_107718.jpg	1 0 + 2 = 1 2
+train_3414.jpg	= 1 6
+train_68807.jpg	2 4 5 - 2 = 2 4 3
+train_69468.jpg	5 3 - 3 = 5 0
+train_19953.jpg	6 = 3 2
+train_63547.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_67957.jpg	= 2 7 3 5 2 4 5 6 3 2
+train_71586.jpg	7 2
+train_69778.jpg	3 4
+train_110869.jpg	3 7
+train_70669.jpg	7 2 + 4 = 7 6
+train_72349.jpg	1 4 - 1 4 = 0
+train_80922.jpg	2
+train_64543.jpg	= 2 8 + 3
+train_63008.jpg	9 7 - 1 7 = 8 0
+train_76775.jpg	4 3 - 7 = 3 6
+train_102233.jpg	- 1 - 1 4 = - 1 5
+train_107288.jpg	7 2 + 3 = 7 5
+train_71407.jpg	5 - 4 = 1
+train_101423.jpg	3 5 + 4 2 = 7 7
+train_73100.jpg	= 2 0 + 1
+train_70560.jpg	x = 1
+train_105249.jpg	= - 9
+train_63090.jpg	= 1 2 0
+train_111092.jpg	3 5 7
+train_72559.jpg	4 2 9 - 5 = 4 2 4
+train_75500.jpg	4 3 3 8
+train_76687.jpg	5 1
+train_70209.jpg	= 4 + 3 + 3 + 2
+train_105189.jpg	2 + 3 + 4 + 5 + 6 + 7
+train_104519.jpg	= - 2 4
+train_63524.jpg	3 7 - 2 = 3 5
+train_108020.jpg	= 2 4 7 0
+train_71435.jpg	x = 2
+train_110043.jpg	= - 2
+test_27460.jpg	2 0 0 + 1 0 0 = 3 0 0
+train_66258.jpg	4 9 - 1 = 4 8
+train_69775.jpg	= 2 0 7 2
+train_112252.jpg	9 0
+train_106246.jpg	x = 5
+train_76942.jpg	= 3 6 0 0 - 1 1 9 + 5
+train_75748.jpg	2 1
+train_89396.jpg	3 1 0 - 1 6 0 = 1 5 0
+train_108227.jpg	= 7 1 5
+train_65967.jpg	= 4 + 3 + 6 + 9
+train_102186.jpg	7 - 6 = 1
+train_74084.jpg	2 ,
+train_70032.jpg	3 3 2 2
+train_97543.jpg	= 3 9 + 3 8
+test_839.jpg	x = - 2
+train_106245.jpg	= - 9 + 8 - 1
+train_28636.jpg	9 8 + 2 = 1 0 0 9 9 8 + 2 = 1 0
+test_6979.jpg	7 2 8 + 2 7 6 = 1 0 0 4
+train_75065.jpg	1 3
+train_73510.jpg	4 , 2 7
+train_108106.jpg	x = 2
+train_76881.jpg	9 0
+train_74679.jpg	4 1 - 4 = 3 7
+train_95225.jpg	= 4 5 + 5
+train_64608.jpg	2 8
+train_109363.jpg	= 2 4 2 0
+train_62146.jpg	6 9 + 2 3 = 9 2
+train_73995.jpg	= 3 4 8
+train_75786.jpg	x , 5 , 7 , 3 5
+train_17834.jpg	x = 4
+train_63143.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_2604.jpg	x = 1
+train_111920.jpg	5 4 0 - 4 6 4 = 7 6
+train_63931.jpg	2 6 2 - 2 0 5 = 5 7
+train_63251.jpg	3 7
+train_75339.jpg	6 9 7 1
+train_103694.jpg	= 1 8
+train_107660.jpg	3 - 2 = 1
+train_78837.jpg	x = 2
+train_102379.jpg	= 4 1 0 2 8 6 8 4 4 8
+train_63783.jpg	4 3
+train_111259.jpg	1 1 7 7 8
+train_66360.jpg	= - 3 - 6
+train_94323.jpg	6 + 1 4 = 2 0
+train_65230.jpg	8 1 + 7 = 8 8
+train_72957.jpg	5 1 7
+train_110908.jpg	5 1
+test_13042.jpg	x = 2 8 , 6 2
+train_111167.jpg	3 7 - 2 = 3 5
+train_103922.jpg	= 0
+train_65244.jpg	3 6
+train_75556.jpg	4 2 9 - 5 = 4 2 4
+train_75146.jpg	5 3 - 3 = 5 0
+train_107807.jpg	- 1 - 1 = 0
+train_72503.jpg	3 6
+train_74950.jpg	= 1 5 + 1
+train_69738.jpg	4 6 7 - 3 = 4 6 4
+train_72346.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_64229.jpg	4 6 7 + 2 = 4 6 9
+train_75553.jpg	1 1 1 1
+train_107587.jpg	x = 5
+train_103313.jpg	= 2 5 0 0
+train_68524.jpg	2 5
+train_106583.jpg	6 0 + 1 = 6 1
+train_105087.jpg	= 4 + 3 - 6 + 9
+train_64931.jpg	4 6 + 5 4 = 1 0 0
+train_65448.jpg	3 3 - 1 1 = 2 2
+train_64863.jpg	1 3 - 7 = 6
+train_111692.jpg	1 2 0
+train_70021.jpg	4 1 - 2 3 = 1 8
+train_106567.jpg	= - 2 - 4
+train_66912.jpg	2 7 1 6
+train_88596.jpg	4 9 0 + 2 8 3 = 7 7 3
+train_91241.jpg	1 6
+train_109087.jpg	2 0 2 1 + 1
+train_45196.jpg	1 2 - 9 = 3
+train_73324.jpg	3 0 0
+test_10506.jpg	x = 0
+train_70867.jpg	3 0 0 - 2 0 5 = 9 5
+train_64733.jpg	1 2 3 5 8 1 3 2 1
+train_65053.jpg	2 4 5 - 2 = 2 4 3
+train_71909.jpg	9 7 - 4 5 = 5 2
+train_70279.jpg	+ 5
+train_73297.jpg	x = 4
+train_95125.jpg	= 3 6
+train_106895.jpg	= - 9
+test_29510.jpg	1 6 - 3 + 4 = 1 7
+train_37432.jpg	1 4 - 6 = 9 + 6 = 1 7 - 8 = 9
+train_63060.jpg	5 3 - 3 = 5 0
+train_7243.jpg	x = 2 0
+train_68653.jpg	= 4
+train_108507.jpg	4 5
+train_104892.jpg	= 5
+train_74778.jpg	7 2 = 2 8
+train_65890.jpg	= - 4
+train_75545.jpg	4 9 + 4 = 5 3
+train_66604.jpg	4 3 - 7 = 3 6
+train_73806.jpg	3
+train_63530.jpg	2 3 - 1 1 = 1 2
+train_105025.jpg	= - 2 7 - 2 0 + 2 1
+train_81801.jpg	3 5 0 + 5 8 0 = 9 3 0
+train_108023.jpg	x = 5
+train_88321.jpg	1 2 + 1 5 = 2 7
+train_89031.jpg	= 1 0 0 0
+train_72529.jpg	8 4 8 - 7 9 1 = 5 7
+train_67271.jpg	= - 2 4
+train_75823.jpg	6 , 2 , 3
+train_111352.jpg	2 + 2 + 2 + 2 + 1
+train_63082.jpg	+ 5 + 5 + 5 + 5 + 5
+train_71005.jpg	1 0 5 - 1 = 1 0 4
+train_63828.jpg	1 + 3 + 5 + 7 + 9 + 1 1 + 1 3 = 4 9
+train_74279.jpg	1 4 4 = 3 7 4
+train_63738.jpg	1 0 5 9 - 1
+train_68537.jpg	4 9 + 4 = 5 3
+train_66911.jpg	= 6 9
+train_108099.jpg	= - 3 - 6
+train_66555.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_66107.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_111196.jpg	= 3 6 + 1
+train_65080.jpg	5 7 3 8
+train_71628.jpg	5 0 0
+train_16579.jpg	5 4 + 3 = 5 7 5 0 + 3 1 = 8 1
+train_111530.jpg	1 1 4
+train_78744.jpg	2 9
+train_69141.jpg	1 0
+train_76564.jpg	1 0 7
+train_105765.jpg	= 1 0 0 7
+train_111667.jpg	4 = 3 + 1
+train_63144.jpg	1 3 0 - 9 1 = 3 9
+train_71093.jpg	4 2 9 - 5 = 4 2 4
+train_73757.jpg	3 3 - 1 1 = 2 2
+train_73373.jpg	3 2
+train_64764.jpg	1 = 0
+train_63479.jpg	1 9
+train_111056.jpg	4 1 2 3 1 1
+train_68739.jpg	6 9 7 0
+train_102285.jpg	= 2 5
+train_104156.jpg	5 9 + 1 5 = 7 4
+train_67467.jpg	1 0 5 - 1
+train_72860.jpg	5 4 5 - 5 = 5 4 0
+train_107972.jpg	= - 6
+train_111527.jpg	4 5
+train_107672.jpg	= - 8 1 - 8
+train_64166.jpg	7 , 3 5
+test_23978.jpg	9 3 + 3 8 4 = 4 7 7 5 0 6 + 1 8 6 = 6 9 2
+train_71057.jpg	= 5 + 3
+train_111516.jpg	4 + 4 + + 1 = 9 = 3
+train_77551.jpg	8 3
+train_104991.jpg	= - 3 + 3 0 + 9
+train_76291.jpg	3 5 - 1 5 = 2 0
+train_62907.jpg	4 1 - 2 3 = 1 8
+train_74572.jpg	2 1 5
+train_74305.jpg	6 9 7 2 - 1 = 6 9 7 1
+train_76837.jpg	1 + 3 + 5 + 7 + 9 + 1 1 + 1 3 + 1 5 + 1 7 = 8 1
+train_71209.jpg	= 1 7 1 1
+train_111687.jpg	= 2
+train_75567.jpg	1 2
+train_104084.jpg	= 3 + 1 0
+train_73730.jpg	1 3 3 9
+train_63887.jpg	1 4
+train_68317.jpg	1 0 5 - 1 = 1 0 4
+train_69196.jpg	2 1 0 - 5 = 2 0 5
+train_68752.jpg	9 7 - 4 5 = 5 2
+train_73937.jpg	1 1 2 3 5 8 1 3 2 1
+train_105869.jpg	2 8 2 6 + 6 0 0 0 = 8 8 2 6
+train_77572.jpg	5 4 - 1 3 = 4 1
+train_35424.jpg	x = 1 9 6
+train_70173.jpg	6 1 3
+train_63664.jpg	5 4 5 - 5 = 5 4 0
+train_74901.jpg	2 3
+train_76001.jpg	9 + 1 = 1 0
+train_71118.jpg	= 2 9
+train_105148.jpg	= - 8 1 + 1 2
+train_61544.jpg	3 + 5 3 = 5 6
+train_102710.jpg	= 7 7 0
+train_82942.jpg	= 1 4
+train_98207.jpg	= 3 9 + 3 8
+train_73452.jpg	6 3
+train_73382.jpg	2 2 2 2 3 3
+train_109507.jpg	7 - 6 = 1
+train_109453.jpg	x = 5
+train_110568.jpg	0 + 2 = 2
+train_65073.jpg	5 = 1 + 4
+train_106469.jpg	= - 2 4
+train_70998.jpg	= 1 9 8 7
+train_73559.jpg	1 5
+train_69915.jpg	3 0 0 - 2 4 3 = 5 7
+train_81681.jpg	6 4 + 3 3 = 9 7
+train_105587.jpg	= 2
+train_70481.jpg	= 6 9 7 1
+train_65621.jpg	x = 1 0 0
+train_72990.jpg	9 6 1
+train_65239.jpg	5 1
+train_69810.jpg	x = 0
+train_109848.jpg	x = 9 6
+train_105733.jpg	x = 1 1
+train_88547.jpg	8 0
+train_4129.jpg	0
+train_74350.jpg	1 0 5
+train_110779.jpg	3 3
+train_72174.jpg	1 2 3 4 5 6 7 8 9 1 0
+train_112128.jpg	2 6 2 - 2 0 5 = 5 7
+train_67746.jpg	x 1 1 4
+train_71910.jpg	= 1 0
+train_95969.jpg	9 8 1 - 5 0 0 = 4 8 1
+train_74356.jpg	3 3 - 1 1 = 2 2
+train_110095.jpg	= 0
+train_65474.jpg	6 7 - 3 3 = 3 4
+train_75320.jpg	4 1 - 2 3 = 1 8
+train_102956.jpg	= - 6
+train_73844.jpg	= 7 + 1 4 4
+train_107119.jpg	= - 5 6
+train_73017.jpg	2 5
+train_108825.jpg	= - 6 9
+train_70500.jpg	4 3
+train_108323.jpg	= 1 8 + 3 2 - 6 0
+train_105387.jpg	= 4 + 3 - 6 + 9
+train_85107.jpg	5 4 + 3 0 = 8 4
+train_69574.jpg	x = 2 4
+train_111883.jpg	5 2
+train_91080.jpg	1 7 - 5 = 1 2
+train_67960.jpg	3 3 7 - 1 3 = 3 2 4
+train_73436.jpg	2 4 5
+train_70454.jpg	2 + 3 + 3 + 2
+train_107382.jpg	= - 3 - 6
+train_72741.jpg	3 7
+train_61483.jpg	8 3 3 - 5 8 3 = 2 5 0
+test_19180.jpg	6 4 + 2 0 = 8 4 7 6 + 2 = 7 8 8 3 + 4 = 8 7
+train_75983.jpg	1 3
+train_63641.jpg	4 3
+train_103207.jpg	= 0
+train_103923.jpg	= - 1
+train_107620.jpg	x = 5
+train_60859.jpg	6 3 - 3 6 = 2 7
+test_22865.jpg	+ 5 0 0 = 8 0 0
+train_95996.jpg	1 0 0
+train_71131.jpg	4 1 - 1 1 = 3 0
+train_86214.jpg	= 3 9 + 3 8
+train_71203.jpg	8
+test_5233.jpg	x = 3 5 0
+train_72185.jpg	1 6 2
+train_63408.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+train_83431.jpg	5 4 + 3 0 = 8 4
+train_107985.jpg	= - 8 1 + 1 2
+train_71922.jpg	= 8 8 2 6
+train_70930.jpg	3 3 7 - 1 3 = 3 2 4
+test_29683.jpg	1 0 - 8 = 2 1 + 2 = 3
+train_71179.jpg	= 3 9 8 0
+train_68789.jpg	3 0 0 - 2 6 0 = 4 0
+test_11860.jpg	2 8 + 1 4 1 + 1 3 0 + 1 4 2 + 1 4 3 1 4 0 + 1 3 8 + 1 4 4 + 1 3 0
+train_63970.jpg	2 2 9 - 1 3 = 2 1 6
+train_109280.jpg	= - 7
+train_75964.jpg	1 1 - 6 = 5
+train_91936.jpg	4 2 - 2 0 = 2 2
+train_112036.jpg	8 4 8 - 7 9 1 = 5 7
+train_111588.jpg	2 4 3 - 2 0 5 = 3 8
+train_105233.jpg	1 + - 1 = 0
+train_109549.jpg	= 0
+train_84764.jpg	1 5 4
+train_111981.jpg	4 6 4
+train_62432.jpg	= 4 2 - 6
+train_77208.jpg	3 9 = 1 , 3 , 1 3 , 3 9
+train_63677.jpg	x
+train_96570.jpg	2 - 1 = 1
+train_64172.jpg	2 1 6
+train_69158.jpg	= 8 0 - 6 8
+train_68960.jpg	3 0 + 1 = 3 1
+train_88051.jpg	= 2 4 0 0 0
+train_110458.jpg	= 1 + 9
+train_69645.jpg	8 5 6 8
+train_97719.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_63707.jpg	2 0
+train_94681.jpg	x = 5
+train_70612.jpg	9 + 1 = 1 0
+train_68987.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_102845.jpg	= 1 0
+train_110945.jpg	4 6 7 - 3 = 4 6 4 5 4 5 - 5 = 5 4 0
+train_64928.jpg	= 2 8 2 6
+train_98924.jpg	3 5 0 + 5 8 0 = 9 3 0
+train_75175.jpg	3 0 0 - 2 4 3 = 5 7
+train_64286.jpg	= 6
+train_111014.jpg	4 2 9 - 5 = 4 2 4
+train_69111.jpg	2 3 - 1 1 = 1 2
+train_62985.jpg	x = 2 4
+train_73425.jpg	2 6 2 - 2 0 5 = 5 7
+train_70231.jpg	= 2 4 3 - 1 6 8
+train_110258.jpg	= - 6 9
+train_67375.jpg	2 3 2 3
+train_70941.jpg	5 3 - 3 = 5 0
+train_104860.jpg	= 2 7 3 5 2 4 5 6 3 2
+train_68763.jpg	6 + 6 = 1 2
+train_72263.jpg	3
+train_101877.jpg	1 2 + 1 0 2 2
+train_74343.jpg	7 4 - 2 = 7 2
+train_68870.jpg	1 0 8
+train_99015.jpg	9 8 1 - 5 0 0 = 4 8 1
+train_106119.jpg	= - 3 + 3 9
+train_78214.jpg	2 5 6
+train_110769.jpg	2 9
+train_76520.jpg	4 5 0
+train_110270.jpg	= 0
+train_74633.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_69525.jpg	1 3 9 1
+train_67230.jpg	= 2 1
+train_104551.jpg	1 - 1 4 = - 1 3
+train_68868.jpg	3 0 0 - 2 4 3 = 5 7
+test_12295.jpg	x = 2 3
+train_107930.jpg	2 1 + 1 = 2 2
+train_73709.jpg	8 8 - 8 1 = 7
+train_67421.jpg	2 6 2 - 2 0 5 = 5 7
+train_105547.jpg	= 0
+train_63965.jpg	3 2
+train_106432.jpg	= 1
+train_66879.jpg	x = 1 1
+test_25826.jpg	4 8 = 6
+train_68349.jpg	= 5 4 + 1
+train_67055.jpg	= 1 2 - 1 + 1 5 - 1 + 1 8 - 1
+train_72467.jpg	1 7 3 4
+train_69683.jpg	1 + 3 + 5 + 7 + 9 + 1 1 + 1 3 = 4 9
+train_86557.jpg	1 1
+train_49633.jpg	x = 3 ,
+train_106807.jpg	= 2 7 - 2 0 + 2 1
+train_68802.jpg	4 3 - 7 = 3 6
+train_69376.jpg	2 9
+train_64263.jpg	3 3 7 - 1 3 = 1 2 4
+train_107674.jpg	= - 9
+train_92920.jpg	5 5 + 3 2 = 8 7
+train_106126.jpg	= - 2 - 4
+train_71954.jpg	2 6 2 - 2 0 5 = 5 7
+train_108204.jpg	= 1 3
+train_63189.jpg	3 7
+train_64197.jpg	3 3 - 1 1 = 2 2
+train_73537.jpg	7 0 - 1 9 = 5 1
+train_74870.jpg	1 1 2 3 4 6 9
+train_63101.jpg	5 3 - 3 = 5 0
+train_66037.jpg	3 7
+train_97818.jpg	6 4 + 3 3 = 9 7
+train_68713.jpg	3 8 5 7
+train_75055.jpg	3 7
+train_47791.jpg	1 5 + 2 4 + 3 3 + 4 2 + 5 8 + 6 7 + 7 6 + 8 5 = 1 1 5 + 8 5
+train_111354.jpg	2 1 6 , 3 2 4
+train_76066.jpg	x = 1 9
+train_65342.jpg	= 4 + 2 7
+train_72869.jpg	3 4
+train_100720.jpg	4 - 3 = 1
+train_90074.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_106981.jpg	= - 8
+train_66803.jpg	x = 5
+train_104504.jpg	= 8
+test_2399.jpg	8 + 1 = 9 4 + 7 = 1 1
+train_105021.jpg	x = 2 0
+train_103704.jpg	7 2 + 3 = 7 5
+train_75523.jpg	4
+train_66655.jpg	4 5 - 1 7 = 2 8
+train_63127.jpg	3 0 0 - 2 4 3 = 5 7
+train_96800.jpg	= 1 1 2 0
+train_104394.jpg	5
+train_64562.jpg	x 1 2 2 9 - 1 3 = 2 1 6
+train_112066.jpg	1 0 9 8 7 6 5 4 3 2 1 0
+train_68839.jpg	3 6 1 - 1 7 6 = 1 8 5
+train_72167.jpg	1 2 5 - 5 1 = 7 4
+train_63672.jpg	1 2
+train_69474.jpg	1 0 5 - 1 = 1 0 4
+train_110272.jpg	= - 8 1 + 1 2
+train_73829.jpg	2 3 - 1 1 = 1 2
+train_78012.jpg	1 8
+train_111179.jpg	5 4 0 - 4 6 4 = 7 6
+train_76132.jpg	6 6
+train_73173.jpg	3 6 1 - 2 8 = 3 3 3
+train_72721.jpg	3 - 2 = 1
+train_64385.jpg	= 8
+train_108885.jpg	= - 8 1 + 1 2
+train_76153.jpg	3 , 1 3 ,
+train_63506.jpg	4 2 9 1
+train_70217.jpg	1 1 1 1 + 1 = 2
+train_69174.jpg	2 3 6
+train_109240.jpg	= - 8 1 + 1 2
+train_75722.jpg	1 9
+train_63392.jpg	1 2
+train_63321.jpg	5 - 2 = 3
+train_110206.jpg	1 7 + 1 8 = 3 5
+train_65978.jpg	4 2 9 - 5 = 4 2 4
+test_16057.jpg	x = 1
+train_68999.jpg	x = 1 3
+train_73340.jpg	x = 1 3
+train_75039.jpg	= 2 3 7 3
+train_79539.jpg	1 2 2 4
+train_74412.jpg	1 + 3 + 5 + 7 + 9 + 1 1 + 1 3 + 1 5 + 1 7 = 8 1
+train_78617.jpg	+ 6 + 7
+train_75599.jpg	= 9 4
+train_64118.jpg	3
+train_74213.jpg	7 0 - 1 9 = 5 1
+train_74532.jpg	4 1
+train_70264.jpg	5 7 6
+train_62862.jpg	2 4 5 - 2 = 2 4 3
+train_94721.jpg	6 + 5 = 1 1
+train_73319.jpg	4 9 + 4 = 5 3
+train_72081.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_66570.jpg	1 2 3 4 5
+train_75943.jpg	2 1 0 - 5 = 2 0 5
+train_75878.jpg	3 2 2
+train_73040.jpg	1 0 9 8 7 6 5 4 3 2 1 0
+train_103328.jpg	= - 8 1 + 1 2
+train_103932.jpg	= 1
+train_73174.jpg	8 - 5 = 3
+train_71800.jpg	2 6 2 - 2 0 5 = 5 7
+train_78188.jpg	4 1 - 2 3 = 1 8
+train_72829.jpg	1 2 7 1 9 5 2 1 3 9 3 8 1
+train_110549.jpg	x - 5 = 0
+train_68615.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_68948.jpg	1 8
+train_63473.jpg	6 - 4 = 2
+train_69219.jpg	2 6 2 - 2 0 5 = 5 7
+train_82538.jpg	8 6 5 + 1 0 5 = 9 7 0
+train_1923.jpg	1 7 7 + 3 2 0 = 4 9 7
+train_110751.jpg	4 2
+train_96715.jpg	7 7 - 1 1 = 6 6
+train_71429.jpg	3 3 7 - 2 2 9 = 1 0 8
+train_110976.jpg	x 1 3 7 - 2 = 3 5
+train_105781.jpg	= 0
+train_103019.jpg	= 9 + 8 + 1
+train_111663.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+train_73231.jpg	9 2 1
+train_93864.jpg	7 1 - 3 3 = 3 8
+train_108627.jpg	= 2 7 1 9 0 0 4 7 2 8
+train_78282.jpg	1 0 - 6 = 4
+train_106443.jpg	= 1 4
+train_73696.jpg	5 4 0
+train_38777.jpg	1 0 0 + 1 3 0 + 1 0 = 2 4 0 9 0 0 + 9 0 + 1 4 = 1 0 0 4
+train_77689.jpg	= 3 1 4
+train_78608.jpg	2 0 0 + 1 6 0 =
+train_65262.jpg	+ 4
+train_94833.jpg	1 1 7 + 7 4 9 = 8 6 6
+train_108540.jpg	= - 6
+train_103783.jpg	0
+train_69389.jpg	5 0 + 1 = 5 1
+train_65955.jpg	2 9
+train_53415.jpg	9 0 + 8 = 9 8
+train_74928.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_75471.jpg	9 9 0
+train_71534.jpg	3 6 , 1 8 , 1 2 , 9
+train_110922.jpg	2 1 - 2 = 1 9
+train_47304.jpg	4 0 6 4 0 6 + 5 9 4 = 1 0 0 0
+train_109062.jpg	= 9 3
+train_104236.jpg	= - 9 3
+train_64418.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_70170.jpg	8 1
+train_106979.jpg	2 8
+train_72283.jpg	7 4 - 2 = 7 2
+train_19473.jpg	3 7 5 + 1 0 4 = 4
+train_96497.jpg	8 + 1 = 9
+train_69182.jpg	= 8
+train_108612.jpg	= - 6 9
+train_70962.jpg	2 4 3 - 2 0 5 = 3 8
+train_102481.jpg	x = 8
+train_2555.jpg	1 3 - 8 =
+train_74088.jpg	2 9
+train_65893.jpg	= 4 0 2 6
+train_102241.jpg	= 0 + 3 + 1 0
+train_111226.jpg	1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = 3 6
+train_63084.jpg	3 5 0 4 7 0 5 5 0
+train_69208.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_61643.jpg	8 3 3 - 5 8 3 = 2 5 0
+train_67549.jpg	2 + 3 = 3
+train_104273.jpg	= 2 - 4
+train_17477.jpg	1 4 - 9 = 5 1 3 - 4 = 9
+train_105760.jpg	= - 4 6
+train_70555.jpg	3 6
+train_71382.jpg	2 2
+train_63155.jpg	1 + 3 + 5 + 7 + 9 + 1 1 + 1 3 + 1 5 + 1 7 = 8 1
+train_105453.jpg	x = 2 3
+train_67714.jpg	x = 1 2 5
+train_83381.jpg	5 6 + 2 1 = 7 8
+train_66071.jpg	3 0 0 - 2 6 2 2 6 2 - 2 0 5
+train_96594.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_69548.jpg	6 3 + 2 = 6 5
+test_20130.jpg	1 0 - 8 = 2 1 + 2 = 3
+train_5182.jpg	3 3 5
+train_78691.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_88616.jpg	x = 1
+train_67100.jpg	2 2 9 - 1 3 = 2 1 6
+train_69527.jpg	3 1 2
+train_61242.jpg	4 1 0 + 3 5 0 = 7 6 0
+train_106450.jpg	= 9 3
+train_102836.jpg	= 1 9 9 5
+train_111355.jpg	3 0 0 - 2 0 5 = 9 5
+train_105989.jpg	x = 2 0
+train_78146.jpg	2 4 3 - 2 0 5 = 3 8
+train_111811.jpg	2 6 2 - 2 0 5 = 5 7
+train_33394.jpg	8 0 = 2 8 0
+train_64362.jpg	1 0 8
+train_74944.jpg	2 3 - 1 1 = 1 2
+train_75355.jpg	3 6 1 - 1 0 2 = 2 5 9
+train_101827.jpg	7 1 - 3 3 = 3 8
+train_110794.jpg	2 0 + 6 + 6 + 6
+train_111101.jpg	1 2 3 5 8 1 3 2 1 3 4
+train_111467.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_92871.jpg	9 8 1 - 5 0 0 = 4 8 1
+train_75731.jpg	7 6 1
+train_70886.jpg	3 6 1
+train_74178.jpg	6 0 - 3 = 5 7
+train_68591.jpg	2 2 2
+train_75073.jpg	2
+train_65457.jpg	1 2 3 4 5 6 7 8
+train_67875.jpg	4 1 - 2 3 = 1 8 2 3 - 1 1 = 1 2
+train_68994.jpg	2 5
+train_81237.jpg	1 5 + 7 4 = 8 9
+train_64614.jpg	5 3 - 3 = 5 0
+train_73107.jpg	= 2 0 7 2
+train_108504.jpg	= 0
+train_110913.jpg	x = 2
+train_94619.jpg	8 + 8 = 1 6
+train_70222.jpg	1 3 + 8 = 2 1
+train_69739.jpg	9 0 + 2 1 + 3 5 - 1 0 5 = 4 1
+train_70484.jpg	= 3 7
+train_71547.jpg	4 5 - 1 7 = 2 8
+train_75954.jpg	2 2 9 - 1 3 = 2 1 6
+train_102633.jpg	= - 2 1 + 1 2 - 2 8 + 1 6
+train_62797.jpg	1 0 1 2 6
+train_64194.jpg	1 6 7 - 6 = 1 6 1
+train_63244.jpg	3 2 + 1 = 3
+train_108417.jpg	= 0
+train_78612.jpg	2 2 9 - 1 3 = 2 1 6
+train_106021.jpg	x = 3
+train_68028.jpg	2 3 2 3
+train_84196.jpg	1 5 + 7 4 = 8 9
+train_108043.jpg	= - 6 9
+train_70281.jpg	6 + 1 = 7
+train_102741.jpg	- 4 + 2 1 = 1 7
+train_73771.jpg	0
+train_64310.jpg	8 8 8 6
+train_111260.jpg	1 9
+train_106965.jpg	= 7 - 6 + 9
+train_69169.jpg	3 4 8 1 + 5 = 3 4 8 6
+train_68760.jpg	7 9 1
+train_75720.jpg	1 2 + 2 7 + 1 8 + 1 8 = 7 5
+train_71017.jpg	1 5 2
+train_76116.jpg	3 0 - 1 = 2 9
+train_74335.jpg	3 6
+train_64336.jpg	2 3 - 1 1 = 1 2
+train_109637.jpg	= 0
+train_109618.jpg	= 1 + 9
+train_73083.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_70327.jpg	2 1 0 - 5 = 2 0 5
+train_65233.jpg	x = 3 0
+test_20766.jpg	3 0 0 + 1 6 0 + 1 3 = 4 7 3
+train_70160.jpg	= 3 6 + 1
+train_109557.jpg	= 2 - 2
+train_77352.jpg	1 4 0 2 2 5 2 9 3
+train_64845.jpg	5 4 0 - 4 6 4 = 7 6
+train_68089.jpg	x = 7
+train_77805.jpg	4 8 - 1 5 = 3 3
+train_69491.jpg	2 9 + 2 = 3 1
+train_64995.jpg	2 1 2
+train_70797.jpg	= 1 + 2
+train_66596.jpg	5 4
+train_111486.jpg	3 9 , 3 , 1 3
+train_73059.jpg	2
+train_71207.jpg	1 0 0 0 - 7 9 1 = 2 0 9
+train_70601.jpg	2 4 3 - 2 0 5 = 3 8
+train_65881.jpg	2 3
+train_67701.jpg	x 1 0 8
+train_70614.jpg	8 4 8 - 7 9 1 = 5 7
+train_73521.jpg	2 1 0 - 5 = 2 0 5
+train_4738.jpg	8 6 6 5 + 7 = 8 9 7 2
+train_64368.jpg	4 1 - 2 3 = 1 8
+train_64227.jpg	1 2 3 5 8 1 3 2 1 3 4
+train_111143.jpg	1 9 5 - 6 = 1 8 9
+train_69528.jpg	3 2
+train_72164.jpg	2 3 - 1 1 = 1 2
+train_74077.jpg	2 6
+train_64711.jpg	5 0
+test_14315.jpg	1 = 1 0 0 0 0
+train_72528.jpg	2 2 9 - 1 3 = 2 1 6
+train_102863.jpg	= 7 3
+train_67683.jpg	x = 1
+train_65630.jpg	4 5 - 1 7 = 2 8
+train_62956.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_64938.jpg	2 4
+train_66756.jpg	= - 6
+train_109214.jpg	x = 9
+train_71522.jpg	2 3
+train_108715.jpg	= - 8 1 + 1 2
+train_111907.jpg	9
+train_66740.jpg	=
+train_109337.jpg	= 2 + 2
+train_108524.jpg	= 0
+train_64276.jpg	2 4 0 1
+train_63832.jpg	8 8 - 8 4 = 4
+train_71744.jpg	= 1 7 5
+train_63287.jpg	6 5 6 - 5 1 8 = 1 3 8
+train_109175.jpg	x =
+train_60357.jpg	5 + 7 7 = 8 2
+train_77900.jpg	2 + 3 + 2 + 1 = 8
+train_71949.jpg	1 2 + 2 = 1 4
+train_75744.jpg	2 0
+train_110583.jpg	- 1 + 1 = 0
+train_63275.jpg	2
+train_65271.jpg	2 8 - 1 6 = 1 2
+train_74582.jpg	1 5
+train_91291.jpg	= 1 0
+train_75990.jpg	2 2
+train_105562.jpg	1 8
+train_90239.jpg	9 2 - 2 2 = 7 0
+train_102538.jpg	= - 2 4
+train_78756.jpg	7 0 - 1 9 = 5 1
+train_65301.jpg	1 3 1 7
+train_93875.jpg	7 7 - 1 1 = 6 6
+train_109681.jpg	= - 2 - 4
+train_63866.jpg	3 0 0 - 2 6 2 = 3 8
+train_66300.jpg	= 2 0 9 - 1 0 5
+train_63673.jpg	7 0 - 1 9 = 5 1
+train_62911.jpg	2 3
+train_62829.jpg	7 4 - 2 = 7 2
+train_107825.jpg	= 7 - 6 + 9
+train_72733.jpg	3 0 0 - 2 4 3 = 5 7
+train_79814.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_71520.jpg	1 0 5 - 1 = 1 0 4
+train_105227.jpg	= - 8 1 + 1 2
+train_65071.jpg	2 3 2 3
+train_103937.jpg	= 0
+train_104521.jpg	= - 9 + 8 + 1
+train_13323.jpg	x = 1 0
+train_78783.jpg	3 1 7 = 7 8
+train_68478.jpg	x = 3 7
+train_72681.jpg	3 0 0 - 2 6 2 = 3 8
+train_75169.jpg	5 3 - 3 = 5 0
+train_74145.jpg	x = 1 3
+train_63119.jpg	4 5 - 1 7 = 2 8
+train_78108.jpg	3 0
+train_64395.jpg	6 = 5 + 1
+train_102054.jpg	8 7 - 7 1 = 1 6
+train_63158.jpg	x = 4
+train_108772.jpg	= 5
+train_107359.jpg	x = 0
+train_64330.jpg	3 6 1 - 1 2 5 = 2 3 6
+train_67487.jpg	2 1 0 - 5 = 2 0 5
+train_107775.jpg	= 4 + 3 - 6 + 9
+train_63281.jpg	9 7 - 4 5 = 5 2
+train_69413.jpg	1 7 0
+train_111030.jpg	1 + 1
+train_64272.jpg	3 2
+train_67085.jpg	= - 8 1 - 8
+train_105272.jpg	= 0
+train_112096.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_48925.jpg	x = 1 - 1 9 2
+train_64637.jpg	1 3 0 - 9 1 = 3 9
+train_64640.jpg	2 2 =
+train_65039.jpg	1 2 3 5 8 1 3 2 1
+train_107187.jpg	= 0
+train_28996.jpg	1 5 - 7 = 8 1 4 - 6 = 8 1 7 - 9 = 8 1 9 - 9 = 1 0 1 5 - 5 = 1 0
+train_109636.jpg	3 9 + 3 5 = 7 4
+train_103850.jpg	= - 9
+train_65460.jpg	3 3 2 2
+train_62722.jpg	2 0 1 5 1 5 1 5
+train_107918.jpg	= - 8 + 8
+train_102249.jpg	= 9
+train_105766.jpg	2 1 + 1 = 2 2
+train_66303.jpg	1 1 1 1 1 1 1 1
+train_110955.jpg	1 2 3 5 8 1 3 2 1
+train_69693.jpg	= 1 3
+train_107579.jpg	= - 3 + 3 0 + 9
+train_7617.jpg	5
+train_68946.jpg	x = 6 2
+train_104166.jpg	- 4 + 1 4 = 1 0
+train_47577.jpg	1 6 - 7 = 9 1 6 - 8 = 8
+train_87801.jpg	6
+train_65339.jpg	5 3 - 3 = 5 0
+train_68335.jpg	3 1 9 6
+train_75399.jpg	5
+train_110426.jpg	x = 1 4
+train_70716.jpg	3 9
+train_70714.jpg	9 9 9
+train_62962.jpg	3 7
+train_96670.jpg	x = 5
+train_72091.jpg	8 4 8 - 7 9 1 = 5 7
+train_71515.jpg	1 9
+train_105680.jpg	x = 3 7
+train_71763.jpg	3 6 1
+test_8623.jpg	1 1 - 5 = 6
+train_102433.jpg	= 2 7 3 5 2 4 5 6 3 2
+train_70821.jpg	3 3 - 1 1 = 2 2
+train_111989.jpg	1 1 4
+train_64564.jpg	3 6 1
+train_64430.jpg	2 3
+train_66662.jpg	= - 3 9
+train_74404.jpg	1 1 4 7 6
+train_62966.jpg	= 2 1 + 6
+train_105901.jpg	= 0
+train_111391.jpg	2 4 5 - 2 = 2 4 3
+train_73503.jpg	2 3 - 1 1 = 1 2
+train_103812.jpg	= 2 7 3 5 2 4 5 6 3 2
+train_102473.jpg	= 4 0
+train_75422.jpg	2 9
+train_75890.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+test_16252.jpg	5 0 - 4 0 = 1 0
+train_70878.jpg	1 0 1 1 1 2 1 3 1 4 1 5
+train_89931.jpg	3 5 0 + 5 8 0 = 9 3 0
+train_70521.jpg	1 2
+train_65970.jpg	0 + 1 + 3 + 2 + 4
+train_70300.jpg	1 4 5
+train_111625.jpg	2 3 - 1 1 = 1 2
+train_75733.jpg	= 3 6 + 1
+train_108686.jpg	x = 0
+train_67610.jpg	2 5
+train_108016.jpg	2 1
+train_67502.jpg	5 4 + 1 = 5 5
+train_100946.jpg	9 8 1 - 5 0 0 = 4 8 1
+train_75042.jpg	2 1 0 - 5 = 2 0 5
+train_110708.jpg	+ 3 5
+train_104325.jpg	= 4 8 3
+train_72823.jpg	2 2
+train_109694.jpg	x = 2
+train_70772.jpg	= 1 + 9 + 7 8 + 3 5 + 1 5 + 1
+train_76972.jpg	5 5 + 3 2 = 8 7
+train_100101.jpg	9 8 0 1
+train_109658.jpg	= 2 7 - 2 0 + 2 1
+train_74459.jpg	x = 6 0 - 1
+train_88530.jpg	8 3 3 - 5 8 3 = 2 5 0
+train_111779.jpg	2 5
+train_67372.jpg	2 9
+train_69378.jpg	5 3 - 7 = 4 6
+train_103964.jpg	= - 2 - 4
+train_70699.jpg	1 2 1 6
+train_74953.jpg	x = 4
+train_100957.jpg	= 4 2 - 6
+train_75955.jpg	5 4 0 - 4 6 4 = 7 6
+train_109623.jpg	2 3 4 5 6 7 1
+train_72657.jpg	2 3
+train_64974.jpg	= 2 5 + 1
+train_105713.jpg	= - 2 - 1 6
+train_111500.jpg	x = 6
+train_75191.jpg	1 9
+train_74992.jpg	= 2 7
+train_62748.jpg	4 3 - 7 = 3 6
+train_73646.jpg	3 1 0 - 5 1 = 2 5 9
+train_67734.jpg	7 0 - 1 9 = 5 1 1 2 5 - 5 1 = 7 4
+train_60875.jpg	7 6 6 - 2 2 2 = 5 4 4
+train_69631.jpg	3 0 0 - 2 6 2 = 3 8
+train_108823.jpg	= - 6
+train_73014.jpg	8
+train_17184.jpg	0 0 - 2 4 - 5 7 = 1 9
+train_65378.jpg	1 1 8
+train_106351.jpg	= 1 3
+train_70642.jpg	5 3 - 3 = 5 0
+train_105323.jpg	= 3 6
+train_94276.jpg	6 2 + 1 9 = 8 1
+train_74759.jpg	1 2 1 5
+train_70288.jpg	= 3 7
+train_73117.jpg	3 0 0 - 2 0 5 = 9 5
+train_105004.jpg	= - 8 + 8
+test_17411.jpg	x = 5
+train_92838.jpg	9 2 - 2 2 = 7 0
+train_68607.jpg	8 1
+train_69716.jpg	4 9 + 4 = 5 3
+train_77691.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_69795.jpg	x = 1 6
+train_108749.jpg	= - 6 9
+train_5918.jpg	x = 4
+train_63810.jpg	1 0 , 7
+train_75868.jpg	2 8 + 4 = 3 2
+train_64299.jpg	5 4
+train_65431.jpg	7 0
+train_51834.jpg	2 2 + 2 3 + 2 4 + 3 2 + 3 3 + 3 4 + 4 2 + 4 3 + 4 4 = 2 9 7
+train_105958.jpg	= - 6
+train_66268.jpg	7 - 6 = 1
+train_62851.jpg	3 3 0 - 2 6 2 = 3 8
+train_93487.jpg	3 1 + 3 = 3 4
+train_107489.jpg	= - 1 6
+train_77145.jpg	2 7 4
+train_67291.jpg	= 1 6
+train_83158.jpg	1 6
+train_75377.jpg	3 5 0 4 6 4 5 4 0
+test_4454.jpg	x = 3 1
+train_68495.jpg	2
+train_62991.jpg	= 5 0
+train_93355.jpg	1 2 + 1 5 = 2 7
+train_70459.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+train_67616.jpg	3 6
+train_107069.jpg	x = 2
+train_63517.jpg	2 3 4
+train_67438.jpg	= - 1
+train_64781.jpg	= 1 4 4
+train_73359.jpg	x
+train_103260.jpg	= 0
+train_78407.jpg	9 7 - 4 5 = 5 2
+train_110039.jpg	= 3 4 - 2 8 + 1 8 + 2 2
+train_110848.jpg	1 1 2 3 5 8 1 3 2 1
+train_63689.jpg	3 + 2
+train_102664.jpg	4 1 1 1 8
+train_14794.jpg	1 0 0 + 1 0 0 + 1 0 0 + 1 0 0 + 1 0 0 + 1 0 0 + 1 0 0 + 1 0 0 + 1 0 0
+train_103494.jpg	= - 8 1 + 1 2
+train_109023.jpg	= - 3 - 6
+train_75507.jpg	2 8
+train_104841.jpg	= 9 3
+train_74591.jpg	2 2 9 - 1 3 = 2 1 6
+test_5528.jpg	x = 1
+train_103087.jpg	= 9 3
+test_17558.jpg	8 + 2 2 = 3 0
+train_111680.jpg	3 7 - 2 = 3 5
+train_67248.jpg	= - 8 1 + 1 2
+train_71656.jpg	3 0 0 - 2 4 3 = 5 7
+train_64740.jpg	4 3 - 7 = 3 6
+train_68008.jpg	2 , 1 6 2
+train_105667.jpg	x = 2 3
+train_70683.jpg	2 9 + 4 = 3 3
+train_6191.jpg	2
+train_111564.jpg	2 1 6
+train_109272.jpg	= 7 1 5
+train_72439.jpg	7 4 - 2 = 7 2
+train_65966.jpg	= 1
+train_30032.jpg	1 2 + 7 = 1 9
+train_74734.jpg	1 2 0
+train_69609.jpg	= 2 0 7 2
+train_103383.jpg	= - 2 1 + 1 2 - 2 8 + 1 6
+train_65542.jpg	3 2
+train_67718.jpg	8 1
+train_69630.jpg	3 - 2 = 1
+train_62227.jpg	1 2 3
+train_77246.jpg	4 1 - 2 3 = 1 8
+train_105311.jpg	= - 1 8
+train_74695.jpg	= 1 0 3 7 3
+train_99135.jpg	1 4 - 8 = 6
+train_68241.jpg	= - 2 1
+train_72551.jpg	8 8 - 8 1 = 7
+train_64191.jpg	3 0 0 - 2 6 2 = 3 8
+train_62982.jpg	3 3
+train_78066.jpg	2 4 6
+train_69700.jpg	x = 6
+train_69988.jpg	7 0 - 1 9 = 5 1
+train_66077.jpg	= - 6
+train_73102.jpg	3
+train_106494.jpg	= 4 9 5 0
+train_4916.jpg	= 4 + 2 + 2 + 2 + 2
+train_69954.jpg	2 4 3 - 2 0 5 = 3 8
+train_74411.jpg	4 6 7 - 3 = 4 6 4
+train_111524.jpg	x = 1 1
+train_68984.jpg	1 = 1
+train_80853.jpg	3 5 0 + 5 8 0 = 9 3 0
+test_16624.jpg	9 + 7 - 4 = 1 2
+train_3064.jpg	8 + 8 - 6 = 1 0
+train_68309.jpg	= 3 + 2 + 3
+train_102686.jpg	= - 1 0
+train_72341.jpg	4 9 + 4 = 5 3
+train_66777.jpg	= 2 7 + 2
+train_76129.jpg	x = 2 9
+train_65697.jpg	= 6 9 7 2 - 1
+train_85547.jpg	= 7 0 - 5 4
+train_103129.jpg	2 + 3 + 4 + 5 + 6 + 7
+train_94492.jpg	9 9 - 5 6 = 4 3
+train_112249.jpg	3 4 8 1 - 1 5 = 3 4 8 6
+train_67747.jpg	9 2
+train_72389.jpg	8 4 8 - 7 9 1 = 5 7
+train_67036.jpg	8 8 8 - 6 5 6 = 2 1 2
+train_19693.jpg	1 7 - 9 = 8
+train_65935.jpg	x = 1 4
+train_70844.jpg	3 9 8 8
+train_108036.jpg	= 0
+train_71756.jpg	3 3 - 1 1 = 2 2
+train_109654.jpg	2 0 2 3 1
+train_74741.jpg	4 9 + 4 = 5 3
+train_70397.jpg	2 2
+train_102987.jpg	= - 2 4
+train_68679.jpg	1 1 4 7 6
+train_111059.jpg	2 2 3 3
+train_67643.jpg	= 2 1 + 1 4
+train_66974.jpg	= - 2 4
+train_68785.jpg	2 3 7 - 6 = 2 3 1
+train_103970.jpg	= - 1 + 2 + - 6 4
+train_63117.jpg	2 4 3 - 2 0 5 = 3 8
+train_110717.jpg	x - 5 = 0
+train_108068.jpg	1 1 + 3 = 1 4
+train_76135.jpg	2 9
+train_111713.jpg	= 2 0 7 2
+train_66550.jpg	3
+train_105649.jpg	x = - 1
+train_76224.jpg	3 0 0 - 2 0 5 = 9 5
+train_104541.jpg	1 7 - 1 0 = 7
+train_72442.jpg	3 2
+train_108582.jpg	= 1 4
+train_111830.jpg	+ 7
+train_112221.jpg	3 2 4 - 2 1 6 = 1 0 8
+train_66226.jpg	= - 8 + 8
+train_76057.jpg	0 1 1 1 2 2 4 4 5 7
+train_67111.jpg	= - 2
+train_108506.jpg	x = 5
+train_71167.jpg	1 9 - 1 3 = 6
+train_75982.jpg	7 4 - 2 = 7 2
+train_64568.jpg	1 4 3 - 2 = 1 4 1
+train_107336.jpg	x = 5
+train_111031.jpg	1 0 6
+train_73134.jpg	= 4 9
+train_78172.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_68945.jpg	1 2 0 + 1 8 = 1 3 8
+train_69504.jpg	x = 3 0
+train_63454.jpg	= 3 6 + 1
+train_98258.jpg	1 + 1 = 2
+train_62994.jpg	x = 6
+train_75439.jpg	x = 2 3
+train_74216.jpg	7 0 - 1 9 = 5 1
+train_105951.jpg	= - 1 - 1 4
+train_85894.jpg	9 8 1 - 5 0 0 = 4 8 1
+train_74195.jpg	= 4 3 + 1
+train_66041.jpg	2 6 2 - 2 0 5 = 5 7
+train_83937.jpg	1 0 - 9 = 1
+train_107358.jpg	= - 9 + 8 + 1
+train_110535.jpg	x = - 1
+train_8243.jpg	x - 3 2 = 5 8
+train_72095.jpg	8 8 - 8 1 = 7
+train_72186.jpg	5 4 0 - 4 6 4 = 7 6
+train_71994.jpg	1 4 0 1 3 0 1 2 0 1 1 0 1 0 0 9 0 8 0 7 0 = 8 4 0
+train_72596.jpg	x = 1 6
+train_64748.jpg	2 2 9 - 1 3 = 2 1 6
+train_106438.jpg	= - 2 1
+train_71261.jpg	5 4
+train_73932.jpg	3 0 0 - 2 0 5 = 9 5
+train_65401.jpg	2 3 - 1 1 = 1 2
+train_106308.jpg	= - 2 6
+train_72511.jpg	3 7 - 2 = 3 5
+train_67161.jpg	5 - 4 = 1
+train_5755.jpg	2 + 7 = 9
+train_74613.jpg	2 3 - 1 1 = 1 2
+train_65744.jpg	- 1 + 1 = 0
+train_109865.jpg	= - 2 1 - 1 2 + 2 8 - 1 6
+train_111394.jpg	4 2
+train_111803.jpg	3 0 0 - 2 6 2 = 3 8
+train_66813.jpg	x = 1 0 , 2 5 , 5 0
+train_112171.jpg	2 2 9 - 1 3 = 2 1 6
+train_64343.jpg	= 8 + 3 0
+train_32249.jpg	1 1 - 9 = 2
+train_78363.jpg	4 2 4 - 2 9 1 = 1 3 3
+train_1603.jpg	2 0
+train_104918.jpg	= - 2 - 4
+train_65072.jpg	1 + 3 + 5 + 7 + 1 1 + 1 3 + 1 5 + 1 7 = 7 2
+train_72740.jpg	5 2
+train_107884.jpg	x = 7
+train_106393.jpg	x = 3
+train_56635.jpg	4 3 9 + 5 = 4 4 4 4 4 4 - 5 = 4 3 9 6 4 0 - 1 6 0 = 4 8 0 4 0 8 - 9 = 3 9 9 1 5 0 + 2 7 0
+train_68711.jpg	+ 5
+train_108378.jpg	= 7 1 5
+train_111671.jpg	1 2 3 5 8 1 3 2 1
+train_102975.jpg	x = 4
+train_89239.jpg	6 4 + 3 3 = 9 7
+train_72906.jpg	3 6
+train_65370.jpg	1 2 9
+train_73351.jpg	3 5 0 + 5 = 3 5 5
+train_248.jpg	4 4 2
+train_80734.jpg	= 2 4 + 5 6
+train_70563.jpg	2 4 3 - 2 0 5 = 3 8
+train_70134.jpg	5 3 - 3 = 5 0
+train_79025.jpg	5 3 - 3 = 5 0
+train_107612.jpg	= 4 9 5 0
+train_102717.jpg	= 0
+train_60427.jpg	5 7 9 = 1 2 3 + 4 5 6
+train_75613.jpg	x = 1 9
+train_72579.jpg	2 1 6
+train_73558.jpg	2 4 + 1 5 = 3 9
+train_69220.jpg	x =
+train_75449.jpg	1 0 5 - 1 = 1 0 4
+train_76080.jpg	2 3 - 1 1 = 1 2 =
+train_69673.jpg	3 6 1
+train_65825.jpg	7 4 - 2 = 7 2
+train_107349.jpg	= 6 0 0 - 1 5
+train_108293.jpg	= 2 5 + 1 3
+train_91040.jpg	4 9 0 + 2 8 3 = 7 7 3
+train_71626.jpg	8 4 8 - 7 9 1 = 5 7
+train_69513.jpg	2 4 5 - 2 = 2 4 3
+train_103426.jpg	= 0
+train_111039.jpg	4 9 + 4 = 5 3
+train_63685.jpg	x = 2
+train_105611.jpg	x = 1 4
+train_69587.jpg	5 + 8 = 1 3
+train_68617.jpg	1 , 2 , 3 , 5 , 8 , 1 3 , 2 1 , 3 4
+train_64151.jpg	= 2 9 4
+train_106018.jpg	= - 9 3
+train_66856.jpg	3 0 0 - 2 4 3 = 5 7
+train_108934.jpg	= 1 0
+train_103244.jpg	= - 9
+train_69187.jpg	3 6 1 - 1 0 2 = 2 5 9
+train_63966.jpg	3 4 5 6 7 8 9 1
+train_66101.jpg	7 9 - 4 5 = 3 4
+train_12026.jpg	+ 1 2 5 + 4 3 = 2 4
+train_68002.jpg	= 0
+train_72788.jpg	7
+train_67952.jpg	= - 6 9
+train_106136.jpg	= 2 8
+train_77313.jpg	1 6
+train_64256.jpg	5 8
+train_108051.jpg	= - 6 9
+train_76336.jpg	2
+train_105347.jpg	x = 1 1
+train_66939.jpg	x = 4 0
+train_108420.jpg	= 0
+train_25130.jpg	3 2 = 5 0 0
+train_108466.jpg	= 5
+train_98702.jpg	8 5 7 - 2 8 3 = 5 7 4
+train_68631.jpg	+ 5
+train_75226.jpg	x = 9
+train_108971.jpg	x = 0
+train_70969.jpg	4 2
+train_65124.jpg	x = 5 , 1 0 , 2 5 , 5 0
+train_102265.jpg	= 3 8 5
+train_27049.jpg	0 = 9 5 0
+train_103082.jpg	= 7 5 0
+train_75557.jpg	2 7
+train_111138.jpg	3 7 - 2 = 3 5
+train_64506.jpg	1 + 1 + 1 + 1 + 1 + 1 + 1 = 7
+train_111067.jpg	3 0 0 - 4 2 4 = 7 6
+train_108594.jpg	x = - 3
+train_69324.jpg	3 1
+train_111945.jpg	2 1 0 - 5 = 2 0 5
+train_64570.jpg	1 3 2
+train_68972.jpg	1 5 3 8 4 6
+train_110714.jpg	2 5 8 1 1 1 4 1 7 2 0 2 3 2 6 2 9 3 2
+train_28086.jpg	1 0 0 7 + 4 = 1 0 1 1 4 3 2
+train_63575.jpg	6 , 3 , 2
+train_70561.jpg	x = 6 2
+train_73731.jpg	2 4 3 - 2 0 5 = 3 8
+train_102995.jpg	x = 2 , 3 , 5 , 3 , - 1 , 0
+train_68324.jpg	3 6
+train_110791.jpg	1 + 3 + 1 + 2 = 7
+train_76337.jpg	4
+train_95645.jpg	6 7 - 5 5 = 1 2
+train_111141.jpg	= 6
+train_110652.jpg	4 + 3 + 0 + 1 + 5 = 1 3
+train_103234.jpg	= - 2 4
+train_73864.jpg	= 7 4
+train_104572.jpg	= 1
+train_88900.jpg	- 9 = 9
+train_70608.jpg	8 8 - 8 1 = 7
+train_111661.jpg	8 3
+train_112186.jpg	4 0 4 1 4 2 4 3
+train_105155.jpg	= - 9 + 8 + 1
+train_72208.jpg	5 - 4 = 1
+train_104380.jpg	= 8 + 8
+train_110134.jpg	= - 2 1
+train_67954.jpg	1 9
+train_82237.jpg	9
+train_74559.jpg	3 3 7 - 2 2 9 = 1 0 8
+train_111568.jpg	x = 4
+train_72331.jpg	3 7 - 2 = 3 5
+train_64569.jpg	4 1 - 2 3 = 1 8
+train_73094.jpg	3 - 1 = 2
+train_106870.jpg	= 4 9 5 0
+train_102505.jpg	= 4 6
+train_74345.jpg	3 2 4
+train_69337.jpg	3 2
+train_74441.jpg	= 1 5
+train_74430.jpg	x = 9
+train_101433.jpg	4 + 3 = 7
+train_69240.jpg	2 9
+train_64635.jpg	3 5 0 4 6 7 5 4 5
+train_62937.jpg	1 2 + 1 8 + 1 8 + 2 7 = 7 5
+train_93114.jpg	4 1 2 - 3 0 1 = 1 1 1
+train_101018.jpg	8 3 3 - 5 8 3 = 2 5 0
+train_110879.jpg	3 3 - 1 1 = 2 2
+train_97551.jpg	2 6 + 2 9 = 5 3
+train_104895.jpg	= - 9 + 8
+train_75154.jpg	4 9 + 4 = 5 3
+train_102882.jpg	x = 3
+train_71166.jpg	8 8 - 7 8 = 1 0
+train_41799.jpg	x = 1 0 8
+train_66746.jpg	3 0 0 - 2 4 3 = 5 7
+train_70588.jpg	2 + 4 = 6 4 + 6 = 1 0
+train_77219.jpg	x
+train_69383.jpg	3 3 7 - 1 3 = 3 2 4
+train_77690.jpg	2 7
+train_69774.jpg	x = 1
+train_71499.jpg	3 6
+train_66160.jpg	= 1
+train_65319.jpg	1 1 2 3 5 8 1 3 2 1
+train_107223.jpg	= - 1 + 1
+train_109777.jpg	= - 6 9
+train_111004.jpg	x
+train_68384.jpg	9 9 9
+train_108441.jpg	= 3 4 - 2 8 + 1 8 + 2 2
+train_110886.jpg	8 3
+train_70022.jpg	4 9 + 4 = 5 3
+train_76690.jpg	3 7 - 2 = 3 5
+train_104697.jpg	- 1 - 1 4 = - 1 5
+train_111334.jpg	7 0 - 1 9 = 5 1
+train_103479.jpg	- 3 , 5
+train_104595.jpg	= 8 8 2 6
+train_63500.jpg	4 3 - 7 = 3 6
+train_62891.jpg	1 0 5 - 1 = 1 0 4
+train_109942.jpg	= - 1 + 2 + 1
+train_65180.jpg	3 7
+train_105917.jpg	= 2 0
+train_73991.jpg	9 1 + 4 = 9 5
+train_15028.jpg	8 - 6 = 2
+train_67368.jpg	x = 2 4
+train_70654.jpg	3 1 7 5 1
+train_71405.jpg	1 2
+train_75898.jpg	2 1 0 - 5 = 2 0 5
+train_65422.jpg	2 , 3 , 6
+train_72660.jpg	3
+train_81394.jpg	= 4 5 0 0
+train_104979.jpg	= 1 0
+train_111243.jpg	2 4 5 - 2 = 2 4 3
+train_65655.jpg	= 5 0 + 3 2 2 + 3 5 3
+train_106474.jpg	= - 6 9
+train_107430.jpg	= 7 - 6 + 9
+train_110802.jpg	2 4 5 - 2 = 2 4 3
+train_102564.jpg	5 4 + 2 4 = 7 8
+train_74531.jpg	1 4 + 1 1 + 6 + 1 4 = 4 5
+train_27911.jpg	3 0 0 + 3 0 + 2 = 6 2 0
+train_68087.jpg	= 1
+train_104135.jpg	= - 7 4
+train_87621.jpg	5 - 5 = 0
+train_107091.jpg	= - 2 1 + 1 2 - 2 8 + 1 6
+train_72433.jpg	x = 1 3
+train_63822.jpg	6 , 5 4
+train_64470.jpg	x = 2
+train_75219.jpg	4 1 - 1 1 = 3 0
+train_94853.jpg	4 9 0 + 2 5 3 = 7 7 3
+train_64813.jpg	2 4 3 - 2 0 5 = 3 8
+train_103179.jpg	= 8 - 1
+train_72471.jpg	6 + 1 = 7
+train_73848.jpg	1 3 0 - 9 1 = 3 9
+train_106369.jpg	= - 2 - 4
+train_107407.jpg	x = 6
+train_110933.jpg	= 3 5 4 0 - 1
+train_105799.jpg	= 9
+train_108724.jpg	x = 2 6 9
+train_112065.jpg	1 3 0 - 9 1 = 3 9
+train_73605.jpg	2 2
+train_107822.jpg	4
+train_104885.jpg	= - 9 + 8 - 1
+train_90252.jpg	3 4 1
+test_2252.jpg	x = 0
+train_70318.jpg	2 2
+train_65576.jpg	3 7
+train_109366.jpg	x = 7
+train_64040.jpg	3 6 0 0
+train_72103.jpg	2 5
+train_70676.jpg	x = 1 3
+train_90118.jpg	6
+train_110274.jpg	= 2
+train_75346.jpg	x = 3 4
+train_78986.jpg	= 8
+train_63444.jpg	7 0 - 1 9 = 5 1
+train_76647.jpg	5 5
+train_109892.jpg	= 2 1 + 1 4
+train_107246.jpg	2 0 2 4 2 0 2 8
+train_74701.jpg	1 2 + 1 = 1 3
+train_72836.jpg	1 9 3 8
+train_75248.jpg	4 9 + 4 = 5 3
+train_108744.jpg	= 1
+train_78680.jpg	1 + 3 + 5 + 7 + 9 + 1 1 + 1 3 = 4 9
+train_66959.jpg	2 , 3
+train_72302.jpg	7 0
+train_85404.jpg	1 6 3 8 4
+train_105631.jpg	- 1 - 1 4 = - 1 5
+train_105490.jpg	= 2 7
+train_101869.jpg	5 + 5 + 5 + 5 = 2 0
+train_78456.jpg	2 7
+train_73606.jpg	2 2
+train_107846.jpg	x = 3
+train_75818.jpg	3 3 2 2
+train_65647.jpg	3 0 0 - 2 4 3 = 5 7
+train_105389.jpg	= - 1 0 0 + 3 6
+train_108804.jpg	= - 6 9
+train_65348.jpg	4 6 7 + 2 = 4 6 9
+train_108142.jpg	1 1
+train_107331.jpg	= - 3 - 6
+train_107144.jpg	= 2 0 0
+train_64021.jpg	7 9 = 7
+train_69402.jpg	3 3 - 1 9 = 1 4
+train_107432.jpg	= - 6
+train_70390.jpg	3 7
+test_10679.jpg	x = 6 4
+train_64356.jpg	3
+train_77739.jpg	1 2 3 5 8 1 3 2 1
+train_107490.jpg	= 2 5 0 0
+train_103539.jpg	= - 1 6
+train_73412.jpg	1 2 3 4 5 6 7 8 9 1 0
+train_72905.jpg	2 0 2 5 - 7 9 = 1 9 4 6
+train_78625.jpg	3 5 0 4 6 4 5 4 0
+train_71653.jpg	+ 2 5 + 2 8 + 3 1 = 1 7 5
+train_72945.jpg	1 + 6 + 1 2 + 5 + 1 + 1 0 + 1
+train_111335.jpg	3 4 8 1 + 5 = 3 4 8 6
+train_71332.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_75491.jpg	3 6 1 8
+train_109591.jpg	= 3 6
+train_110823.jpg	1 5 0 - 1 = 1 4 9
+train_94247.jpg	5 + 5 = 1 1
+train_71749.jpg	4 5 - 1 7 = 2 8
+train_106397.jpg	= 1 0
+train_107353.jpg	- 9
+train_104567.jpg	= 1 3 3 1 0
+train_107088.jpg	x = 0
+train_110971.jpg	1 2 3 5 8 1 3 2 1 3 4
+train_108359.jpg	x = 5
+train_68896.jpg	1 8 9 - 1 6 1 = 2 8
+train_72639.jpg	4 9 + 4 = 5 3
+train_62794.jpg	6 0 + 8 0 + 2 3 6 = 3 7 6
+train_109592.jpg	= 4 2 0
+train_23996.jpg	x - 8 0 =
+train_111700.jpg	2 4 5 - 2 = 2 4 3
+train_559.jpg	1 7
+train_86849.jpg	x + 1 2 = 2 8
+train_71151.jpg	7 3
+train_63692.jpg	2 4 5 - 2 = 2 4 3
+test_5200.jpg	= 3 5 1
+train_97148.jpg	5 4 + 3 0 = 8 4
+test_805.jpg	x = 2 0 0 0 0
+train_72369.jpg	x 2 5 7 - 1 3 3 = 1 2 4
+train_66553.jpg	= 1 8
+train_67176.jpg	= - 6
+train_107140.jpg	x = 2 7 4
+train_67841.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+train_68983.jpg	8
+train_65558.jpg	= 6 0 + 2 0 - 4 0
+train_65165.jpg	7 9 1
+train_111801.jpg	4 1 - 2 3 = 1 8
+train_111132.jpg	x = 4 , 2
+train_107312.jpg	=
+train_63539.jpg	2 5
+train_29026.jpg	5 + 6 + 5 + 2 6 + 5 + 4
+train_106534.jpg	= - 4 7 + 2 1
+train_105905.jpg	= - 8 9
+train_107070.jpg	4 , 1 1 , 1 8
+train_71425.jpg	= 1 0 1 + 3 9 6
+train_74780.jpg	1 0 5 + 6 = 1 1 1
+train_111749.jpg	2 2 2 2 2
+train_68312.jpg	8 0
+train_103485.jpg	= - 9 + 2 - 1
+train_71279.jpg	2 2 3 3
+train_70127.jpg	x = 1
+train_60976.jpg	9 + 7 = 1 6
+train_105472.jpg	= 8
+train_76842.jpg	= 4 0 0 0
+train_72923.jpg	2 6
+train_69768.jpg	= 3 6 + 1
+train_110069.jpg	x = 1
+train_108152.jpg	= 3 6
+train_97498.jpg	1 4
+train_70255.jpg	1 0 5 + 1 = 1 0 6
+train_107665.jpg	= 0
+train_110803.jpg	3 7
+train_104288.jpg	x = 7 2 - 3
+train_69275.jpg	1 1
+train_104201.jpg	= 2 3 1 0
+train_74546.jpg	1 9 5 - 6 = 1 8 9
+train_64264.jpg	3 2
+train_84294.jpg	3 1 1 0 2 4
+train_73018.jpg	2 6 2 - 2 0 5 = 5 7
+train_110467.jpg	2 1
+train_44139.jpg	3 8 + 4 2 = 8 0 4 2 -
+train_76303.jpg	2 0 1 5 5 5 5 5
+train_61974.jpg	3 5 0 + 5 8 0 = 9 3 0
+train_72732.jpg	1 0
+train_93060.jpg	1 2 8
+train_77547.jpg	= 3 6 + 1 = 3 7
+train_94403.jpg	2 8 - 2 5 = 3
+test_22891.jpg	2 1 0 + 2 0 0 = 4 1
+train_103534.jpg	= 0 + 3 + 1 0
+train_74164.jpg	1 3
+train_105362.jpg	= 6 1
+train_103929.jpg	= - 3 6 + 8
+train_69138.jpg	8 4 8 - 7 9 1 = 1 5 7
+train_73675.jpg	3 0 0 - 2 4 3 = 5 7
+train_72540.jpg	0 1 2 3 5 8 1 3 2 1 3 4 5 5
+train_85569.jpg	4 0 + 5 4 = 9 4
+train_108555.jpg	1 + 3 8 = 3 9
+train_99218.jpg	= 2 8 + 3 2
+train_102242.jpg	= 4 9 5 0
+train_69154.jpg	7 8
+train_110796.jpg	2 6
+train_99348.jpg	x = 1 0
+train_34129.jpg	4 8 1 + 2 1 = 5 6 2
+train_108782.jpg	1 0
+train_102920.jpg	= 0
+test_11345.jpg	2 - 8 + 1 6 + 2 - 2 8 + 1 1 6 - 1 0 0 = 0 2 0 8
+train_73548.jpg	1 2 0
+train_79502.jpg	= 9 1
+train_108871.jpg	x = 1 4
+train_66508.jpg	1 0 5 - 2 = 1 0 3
+train_108747.jpg	= - 4 9 + 2 8
+train_74408.jpg	1 2 5
+train_111283.jpg	3 2 4
+train_16547.jpg	x = 4 2
+train_70593.jpg	1 2
+train_75804.jpg	2 5
+train_19157.jpg	6 7 - 3 4 - 2 2 = 1 1
+train_67156.jpg	2 3 7 - 6 = 2 3 1
+train_73648.jpg	6 4 8 + 2 0 1 6
+train_75345.jpg	x = 4
+train_66697.jpg	1 0 5 - 1 = 1 0 4
+train_109362.jpg	= - 2 1
+train_65897.jpg	= 6 0
+train_64328.jpg	= 6
+train_64331.jpg	2 4 5 - 2 = 2 4 3
+train_75601.jpg	1 5 3
+train_71865.jpg	2 3 - 1 1 = 1 2
+train_112028.jpg	3 0 0 - 2 4 3 = 5 7
+train_71755.jpg	4 9 7 = 1 1 - 9 = 2
+train_112239.jpg	1 , 2 , 0 , 1 , 2 , 0 , 1 , 2 , 0
+train_73031.jpg	7 0 - 1 9 = 5 1
+train_103837.jpg	= - 2 4
+train_65537.jpg	4 3 - 7 = 3 6
+train_106033.jpg	x = 2
+train_73931.jpg	1 , 1 , 2 , 2 , 4 , 5 , 8 , 1 1 , 1 7 ,
+train_70751.jpg	3 0 0 - 2 4 3 = 5 7
+test_7976.jpg	3 0 + 2 3 = 5 3 8 1 + 1 0 = 9 1
+train_109720.jpg	x = 2
+train_107657.jpg	x = 5
+train_84789.jpg	8 4 5
+train_62715.jpg	2 6 2 - 2 0 5 = 5 7
+train_105122.jpg	x = 1
+train_111096.jpg	4 3 + 7 = 5 0
+train_77896.jpg	5 0
+train_64631.jpg	6 8
+train_62887.jpg	3 3 7 - 1 3 = 3 2 4
+train_107899.jpg	= - 9 + 8 + 1
+train_66498.jpg	= - 8 + 1 2
+train_72055.jpg	3 5
+train_103175.jpg	= - 8 1 - 1 2
+train_112076.jpg	3 2
+train_68518.jpg	= 1 6
+train_72300.jpg	2 2 2 3 3
+train_70469.jpg	1 2 + 1 = 1 3
+train_62825.jpg	2
+train_67836.jpg	4 5 - 1 7 = 2 8
+test_1801.jpg	4 5 9 + 8 6 = 5 4 5
+train_69142.jpg	4 7
+train_33798.jpg	- 6 = 7 1 2 - 7 = 5
+train_86664.jpg	= 3 6
+train_109821.jpg	= 0
+train_69070.jpg	7 4 - 2 = 7 2
+train_104742.jpg	= - 2
+train_74110.jpg	9 , 1 2
+train_110824.jpg	6 2
+train_106210.jpg	= - 2 - 4
+train_108679.jpg	= 1
+train_70097.jpg	7 , 3 5
+train_75593.jpg	4 2 9 - 5 = 4 2 4
+train_62533.jpg	7 6 6 - 2 2 2 = 5 4 4
+train_75962.jpg	3 2 4
+train_108822.jpg	x = 5
+train_77759.jpg	3 0 0 - 2 4 3 = 5 7
+train_64692.jpg	7 4 - 2 = 7 2
+train_64431.jpg	x = 1
+train_111814.jpg	2 2
+train_107418.jpg	x = 4
+train_89744.jpg	= 7 0 - 7
+train_68355.jpg	1 9
+train_78348.jpg	2
+train_109873.jpg	= - 6
+train_77296.jpg	2 4 5 - 2 = 2 4 3
+train_106072.jpg	= - 3 + 3 0 + 4
+train_109646.jpg	= 5 7 0
+train_70790.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_73053.jpg	2 4 3 - 2 0 5 = 3 8
+train_78809.jpg	1 8 , 1 2 = 2 , 3 , 6 ,
+train_76707.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_84452.jpg	5 5 + 3 2 = 8 7
+train_70524.jpg	1 9
+train_71224.jpg	3 3 7 - 1 3 = 3 2 4
+train_76195.jpg	2 4 5 - 2 = 2 4 3
+train_75283.jpg	4 9 + 4 = 5 3
+train_66978.jpg	4
+train_96371.jpg	8
+test_20225.jpg	6 0 + 1 0 = 7 0 2 0 + 2 0 = 4 0
+train_72907.jpg	4 3 - 7 = 3 6 7 4 - 2 = 7 2
+train_64800.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+test_13841.jpg	3 2 + 2 9 + 2 5 + 2 4 + 2 0 + 2 6 + 2 8 + 3 0 + 2 7 = 2 7 2
+train_66108.jpg	1 1 0 1 0
+train_69410.jpg	2 4 3 - 2 0 5 = 3 8
+train_72321.jpg	2 2 9 - 1 3 = 2 1 6
+train_111986.jpg	3 7 - 2 = 3 5
+train_68885.jpg	1 2 5 - 5 1 = 7 4
+train_67014.jpg	= - 2 + 0
+train_74583.jpg	1 2 3 5 8 1 3 2 1 3 4
+train_108992.jpg	x = 0
+train_93133.jpg	1 7 - 7 = 1 0
+train_71883.jpg	4 9 + 1 5 + 1 7 = 8 1
+train_109605.jpg	= - 2 4
+train_108263.jpg	= - 8 + 8
+train_105188.jpg	= 1
+train_67619.jpg	6 + 5 + 1 6 = 2 7
+train_108324.jpg	= - 6
+train_18034.jpg	x = 4
+train_77629.jpg	1 5 + 7 4 = 8 9
+train_112111.jpg	8 8 - 7 8 = 1 0
+train_103389.jpg	= 4 + 3 - 6 + 9
+train_13044.jpg	8 4 - 6 0 = 2 4 7 9 - 4 0 = 3 9
+train_68836.jpg	3 0 0 - 2 0 5 = 9 5
+train_99393.jpg	3 0
+train_72228.jpg	1 9 1 5 7 3 8
+train_21259.jpg	x + 2 4 = 5 2 + 3 0
+train_75299.jpg	3 2 3 2
+train_109124.jpg	= - 4
+train_64807.jpg	1 0 5 - 2 = 1 0 3
+train_65485.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+test_7681.jpg	x = 2
+train_100538.jpg	2 2 + 2 6 + 3 6 + 1 8 = 1 0 2
+train_106001.jpg	x = 2 0
+train_70354.jpg	1 3 0 - 9 1 = 3 9
+train_65341.jpg	1 + 4 + 4 + 8 + 1 0 = 2 7
+train_71426.jpg	5 4 - 4 = 5 0
+train_80715.jpg	6
+train_112101.jpg	1 3 0 - 9 1 = 3 9
+train_64155.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_76638.jpg	0
+train_75088.jpg	2 4 3 - 2 0 5 = 3 8
+train_74488.jpg	3 7
+train_90610.jpg	5 0
+train_102236.jpg	1 0 8
+train_74323.jpg	x - 7
+train_78327.jpg	5 , 5 0 , 2 5 , 1 0
+train_107953.jpg	= - 9
+train_104425.jpg	= 0
+train_107185.jpg	= - 1 + 2 + - 1
+train_112124.jpg	x = 2
+train_72854.jpg	8 8 - 8 1 = 7
+train_53089.jpg	1 0 0 + 1 3 0 + 1 0 = 2 4 0 9 0 0 + 9 0 + 1 4 = 1 0 0 4
+train_111795.jpg	3 7
+train_30929.jpg	5 0 0 0 + 7 0 0 0 + 8 0 0 0 + 5 0 0 0 + 1 0 0 0 0 = 3 5 0 0 0 0
+train_70869.jpg	= 2 7
+train_63558.jpg	3 2 4
+train_71903.jpg	4 1
+train_64391.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+train_102736.jpg	x = 1 4
+train_81424.jpg	= 4 5 0 0
+train_9048.jpg	1 + 6 = 7
+train_103040.jpg	= 1
+train_76150.jpg	= 0
+train_74325.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_73334.jpg	= 2 1
+train_78186.jpg	x = 6
+train_74511.jpg	3 6 5 0
+train_102452.jpg	x = 0
+train_75696.jpg	1 , 5 , 7 , 3 5
+train_72496.jpg	2 , 3 , 6
+train_62848.jpg	= 2 0 2 7
+train_78258.jpg	8 4 8 - 7 9 1 = 5 7
+train_63443.jpg	2 5 0 - 1 0 2 = 1 4 8
+train_108809.jpg	= 2 1 - 1 2 + 2 8 - 1 6
+train_32223.jpg	5 0 + 8 = 5 8
+train_75978.jpg	3 0 0 2 6 2 2 0 5
+train_67202.jpg	2 1 0 - 5 = 2 0 5
+train_97964.jpg	1 6 - 9 = 7
+train_98606.jpg	1 0 - 1 0 = 0
+train_108188.jpg	x = 9 6
+train_105870.jpg	= 4 6
+train_3442.jpg	5
+train_76719.jpg	1 1 1 0 1
+train_67109.jpg	3 2 1 4
+train_64829.jpg	1 0
+train_64628.jpg	3 2
+train_109824.jpg	= - 8 1 + 1 2
+train_66316.jpg	5 4 0 - 4 6 4 = 7 6
+train_78920.jpg	x = 1 3
+train_64258.jpg	7 0 - 1 9 = 5 1
+train_74434.jpg	5 3 = 4 5
+train_102977.jpg	= - 5 4 + 1 2
+train_76211.jpg	1 1 1 1
+train_78739.jpg	= 8 8 + 3 6
+train_74604.jpg	5 0 - 3 0 = 2 0
+train_86458.jpg	1 4 - 7 = 7
+train_110054.jpg	2 0 2 8
+train_74654.jpg	5 3 - 3 = 5 0
+test_2634.jpg	x = - 3
+train_74573.jpg	2 3 - 1 1 = 1 2
+test_6578.jpg	x = 2 0
+train_7284.jpg	2 4 + 6 = 3 0
+train_65146.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+train_111948.jpg	2 + 1 + 1
+train_68268.jpg	x = 9
+train_109687.jpg	x = 5
+train_71832.jpg	5 0 - 4 6 4 = 7 6
+train_105825.jpg	= 0
+train_63711.jpg	6 4 + 4 = 6 8
+train_71867.jpg	1 0 0 0 - 8 4 8 = 1 5 2
+train_93723.jpg	= 6 0 + 3 2
+train_72201.jpg	= 0 + 1 + 2 + 3 + 4
+train_78647.jpg	x = 1 5
+train_72517.jpg	2 6 2 - 2 0 5 = 5 7
+train_107417.jpg	= - 2 - 4
+train_71856.jpg	2 4 5 - 2 = 2 4 3
+train_104144.jpg	= - 8 1 - 8
+train_102364.jpg	= 7 1 5
+train_111372.jpg	= 3 6 + 1 = 3 7
+train_109420.jpg	x = 3
+train_72132.jpg	x = 0
+train_102615.jpg	= 3 6
+train_69433.jpg	= 3 1
+test_3108.jpg	4 2 0 = 1 0 0 + 1 0 0 + 1 0 0 + 1 0 0 + 2 0
+train_65369.jpg	3 6 + 2 4 + 1 6 = 1 6
+train_75119.jpg	1 9 - 1 3 = 6
+train_74390.jpg	1 0 0 0
+train_73512.jpg	5 3 - 3 = 5 0
+train_70547.jpg	2 1
+train_64750.jpg	x = 2 0
+train_63247.jpg	2 9
+train_71541.jpg	4 6 4 - 3 5 0 = 1 1 4 5 4 0 - 4 6 4 = 7 6
+train_89729.jpg	8 5 - 5 8 = 2 7
+train_109388.jpg	= - 8 1 + 1 2
+train_105524.jpg	= - 8 1 + 1 2
+train_71495.jpg	2 3
+train_7928.jpg	2 5 + 7 5 - 2 5 + 7 5
+train_64499.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_67668.jpg	1 , 1 9
+train_46496.jpg	5 4 + 4 0 = 9 4
+train_66243.jpg	1 + 1 = 2
+train_108379.jpg	= 1
+train_94855.jpg	= 4 2 - 6
+train_64060.jpg	1 8 5
+train_67715.jpg	4 + 6 + 6 + 2 = 1 8
+train_70331.jpg	5 1 0
+train_106730.jpg	= 1 8
+train_62873.jpg	8 1
+train_15357.jpg	1 2 - 5 = 7
+train_102276.jpg	= - 9
+train_110196.jpg	= 9 + 2 8 - 1 6
+train_71661.jpg	x = 3
+train_108579.jpg	= - 9
+train_63552.jpg	3 5 0 4 6 4 5 4 0
+train_66358.jpg	= 0
+test_646.jpg	7 0 - 7 0 = 0
+train_70370.jpg	2 2
+train_7541.jpg	x = 0
+train_69350.jpg	= 3 1
+train_68837.jpg	3 0 - 2 8 = 2
+train_91597.jpg	4 0 - 2 0 = 2 0
+train_75201.jpg	4 1 - 1 1 = 3 0
+train_109562.jpg	- 1 + - 1 = - 2
+train_74652.jpg	3 7 - 2 = 3 5
+train_73093.jpg	2 3
+train_111897.jpg	1 3 0 - 9 1 = 3 9
+train_105351.jpg	= - 4
+train_70441.jpg	2 0 5
+train_73715.jpg	9 9 0
+train_109536.jpg	2 0 2 0 - 2 0 3 0 2 0 2 4
+train_111369.jpg	1 9 9 8
+train_105476.jpg	2 0 - 1 3 = 7
+train_105279.jpg	x = 5
+train_30353.jpg	4 4 - 1 9 = 2 5
+train_72976.jpg	1 5 + 6 + 4 = 2 5
+train_65643.jpg	2 4 3 - 2 0 5 = 3 8
+train_73837.jpg	3
+train_65299.jpg	3 7
+train_27222.jpg	- 4 8 7 = 1 2 8
+train_70787.jpg	3 7
+train_63183.jpg	3 3 - 1 1 = 2 2
+train_64954.jpg	6 9
+train_77570.jpg	1 7 6 4 , 1 8 4 9 , 1 9 3 6
+train_111933.jpg	1 3
+train_75457.jpg	2 8
+train_62744.jpg	1 8
+train_16989.jpg	7 6 + 2 5 = 7 9
+train_67276.jpg	6
+train_64768.jpg	5 + 3 = 8
+train_66979.jpg	3 4
+train_63776.jpg	x = 2
+train_98586.jpg	1 5 + 7 4 = 8 9
+train_67349.jpg	= 1 0
+train_69128.jpg	3 7 - 2 = 3 5
+train_64408.jpg	6 8
+train_83061.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_105292.jpg	= 0
+train_64480.jpg	= 5 3
+train_103402.jpg	= 2 5 0 0
+train_74263.jpg	= 2 + 1
+train_75678.jpg	2 4 5 - 2 = 2 4 3
+train_73671.jpg	2
+train_64632.jpg	8 1 6 8 1 6
+train_108495.jpg	2 0 2 4 , 2 0 2 8
+train_72382.jpg	8 8 - 7 8 = 1 0
+train_108044.jpg	= 0
+train_70375.jpg	x = 1 5
+train_111533.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_102326.jpg	= 2 5 0 0
+train_103310.jpg	5 5 + 0 = 5 5
+train_66357.jpg	1 2 3 4 5 6 7
+train_5287.jpg	1 2 - 9 = 3
+train_111608.jpg	4 5 - 1 7 = 2 8
+train_107001.jpg	= - 9
+train_71130.jpg	1 0 + 1 1 = 2 1
+train_69656.jpg	2 4 5 - 2 = 2 4 3
+train_98432.jpg	1 3 - 5 = 8
+train_69791.jpg	5 5 5 5 5 5 5 5 6
+train_72123.jpg	2 3 - 1 1 = 1 2
+train_69252.jpg	5 0 5 0
+train_73727.jpg	3 5 0 4 6 7 5 4 5
+train_63858.jpg	8 4 8 - 7 9 1 = 5 7
+train_63380.jpg	9 7 - 4 5 = 5 2
+train_64373.jpg	5 6 4 - 5 = 5 4 0
+train_67171.jpg	1 6 - 1 0 = 6
+train_72698.jpg	1 2
+train_65130.jpg	3 0 0 - 2 6 2 = 3 8
+train_109710.jpg	1 4 + 1 = 1 5
+train_4788.jpg	2 2 - 4 = 1 8
+train_69519.jpg	5 3 - 3 = 5 0
+train_75753.jpg	x = 3 9
+train_1925.jpg	x - 3
+train_72841.jpg	4
+train_63583.jpg	3 5
+train_67835.jpg	= - 2 - 4
+train_87029.jpg	4 9 0 + 2 8 3 = 7 7 3
+train_76619.jpg	9 7 - 4 5 = 5 2
+train_70724.jpg	1 2 3 4 5 6 7 8 9 1 0
+train_7794.jpg	4 1 - 2 3 = 1 8
+train_73096.jpg	7 7
+train_79644.jpg	7 7 - 1 1 = 6 6
+train_90339.jpg	6 + 7 + 8 + 9 = 3 0
+train_69550.jpg	2 3 - 1 1 = 1 2
+train_64591.jpg	3
+train_73587.jpg	2 9 9
+train_65692.jpg	2 5
+train_97237.jpg	4 1 2 - 3 0 1 = 1 1 1
+train_94261.jpg	5 5 + 3 2 = 8 7
+train_65822.jpg	= 2 1
+test_13834.jpg	3 4 5 + 5 6 0 = 8 4 5
+train_64145.jpg	2 4 1 2 4 1
+train_98382.jpg	5 4 + 3 0 = 8 4
+train_68595.jpg	4 9 + 4 = 5 3
+train_104485.jpg	= 2 0 2 7 1 3 6 + 2 9 4 5 8 1 1 8 4
+train_67512.jpg	= - 2 0
+train_66629.jpg	1 9
+train_108459.jpg	= 0
+train_18425.jpg	x = 3
+train_76550.jpg	3 5 0 4 6 4 5 4 0
+train_70991.jpg	2 9
+train_67435.jpg	x = 1 1
+train_68080.jpg	1 + 1 = 2
+train_64378.jpg	2 4 + 4 = 2 8
+train_75125.jpg	1 1 1 1
+train_70700.jpg	= 2 9
+train_63299.jpg	3 , 3 6
+train_105150.jpg	= - 1 - 4
+train_72252.jpg	2 6 2 - 2 0 5 = 5 7
+train_78365.jpg	2 1 - 2 = 1 9
+train_63410.jpg	1 0 5 - 1 = 1 0 4
+train_109795.jpg	= 2 5 0 0
+train_72679.jpg	2 - 3 6
+train_85016.jpg	8 3 3 - 5 8 3 = 2 5 0
+train_70308.jpg	2 1
+train_71723.jpg	3 0 0 - 2 4 3 = 5 7
+train_74721.jpg	1 1
+train_106487.jpg	= - 1 - 1
+train_68321.jpg	7 0 - 1 9 = 5 1
+train_73199.jpg	x = 3 7
+train_72356.jpg	= 4 + 2 7
+train_29784.jpg	= 3 1 4 - 5 = 9 1 7 - 9 + 2 = 1 0 1 7 - 8 = 9
+train_70424.jpg	x = 1 3
+train_71798.jpg	x = 1 3
+train_112224.jpg	8 4 8 - 7 9 1 = 5 7
+train_71691.jpg	3 6 1 - 1 0 2 = 2 5 9
+train_76745.jpg	7 4 - 2 = 7 3
+train_84083.jpg	6 7 - 5 5 = 1 2
+test_14016.jpg	6 + 7 = 1 3
+train_73556.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_65515.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_72333.jpg	= 2 0 7 2
+train_68374.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_64950.jpg	1 2
+train_75657.jpg	2 1 - 1 2 = 9
+train_65619.jpg	= 1 3
+train_64919.jpg	4 5 - 1 7 = 2 8
+train_72061.jpg	2 9 3 - 2 2 5 = 6 8
+train_65925.jpg	x = - 3
+train_107604.jpg	= - 2 - 4
+train_68500.jpg	2 8
+train_75944.jpg	2 8
+train_82752.jpg	4 + 4 = 8
+train_71928.jpg	2 3 7 - 6 = 2 3 1
+test_16313.jpg	5 6 - 6 = 5 0
+train_71345.jpg	4
+train_68517.jpg	3 0 0 - 2 0 5 = 9 5
+train_63586.jpg	1 3 9 1
+train_69399.jpg	2 + 2 + 2 + 2 + 2 = 1 0
+train_112146.jpg	7 8 9
+test_6771.jpg	x = 2
+train_98714.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+test_24533.jpg	x = - 2
+train_71102.jpg	2 5 0 - 1 0 2 = 1 4 8
+test_20962.jpg	1 5 - 5 = 1 0
+train_71032.jpg	2 4 3 - 2 0 5 = 3 8
+train_70701.jpg	1 + 2 = 3
+train_111575.jpg	4 6 7 - 3 = 4 6 4
+train_69987.jpg	3 0 0 - 2 0 5 = 9 5
+train_66264.jpg	7 0 - 1 9 = 5 1
+train_36754.jpg	2 5 + 3 8 = 6 3 8 0 - 6 3 =
+train_68672.jpg	2 2 2 2 2
+train_64512.jpg	7 0
+train_67272.jpg	4 9 + 4 = 5 3
+train_1477.jpg	3 0 0 + 5 0 0 =
+train_67247.jpg	3 5 + 4 = 3 9
+train_69989.jpg	2 4 5 - 2 = 2 4 3
+train_71149.jpg	3 0 0 - 2 4 3 = 5 7
+train_69936.jpg	5 3 - 3 = 5 0
+test_17675.jpg	x + 2 5 - 1 0 - 2 5 + 1 0 = 2 7 - 2 5 + 1 0
+train_76240.jpg	3 2 3 2
+train_20603.jpg	x = 4 ,
+train_68444.jpg	8 4 8 - 7 9 1 = 5 7
+train_68773.jpg	2 3
+train_109896.jpg	= 1 0 + 2 5
+train_46716.jpg	7 - 5 = 8 2 6 - 2 = 4
+train_68548.jpg	8 4 8
+train_64290.jpg	= 6 9 7 1
+train_81363.jpg	7 1 - 3 3 = 3 8
+train_109755.jpg	1 0 4
+train_75421.jpg	4 9 + 4 = 5 3
+train_108800.jpg	= 7 + 6 + 9
+train_68702.jpg	2 3 - 1 1 = 1 2
+train_69496.jpg	= 2 0 7 2
+train_62775.jpg	9 7 - 4 5 = 5 2
+train_103377.jpg	= - 8 1 + 1 2
+train_96597.jpg	9 2 - 2 2 = 7 0
+train_63908.jpg	3 3 6 7 1 1 8
+train_71792.jpg	4 1 - 1 1 = 3 0
+train_75904.jpg	1 3 0 - 9 1 = 3 9
+train_72531.jpg	= 4 1
+train_68804.jpg	4
+train_75396.jpg	1 2
+train_63841.jpg	3 + 3 + 2 + 3 + 2 + 2 = 1 5
+train_73008.jpg	2 5 = 2 0
+train_89210.jpg	8 7 - 7 1 = 1 6
+train_102449.jpg	= 1
+train_63833.jpg	3 2 2 3
+train_68974.jpg	2 9
+train_81067.jpg	7 7 - 1 1 = 6 6
+train_71511.jpg	1 1 1 0 1
+train_40610.jpg	4 8 - 5 = 3 3 4 8 - 5 = 4 3
+train_65538.jpg	1 + 1 + 1
+train_65841.jpg	= 1 + 1 + 2 + 2 + 2
+train_110928.jpg	+ 5 + 7
+train_109629.jpg	= - 2 4
+train_67577.jpg	= 5 6 - 1 0
+train_69361.jpg	1 4 9
+train_74420.jpg	= 4 9 + 4
+train_63678.jpg	5 4
+train_65400.jpg	2 1 0 - 5 = 2 0 5
+train_69193.jpg	= 6 9 7 1
+train_90197.jpg	7 5 - 5 7 = 1 8
+train_61000.jpg	3 5 0 + 5 8 0 = 9 3 0
+train_106503.jpg	= 1
+train_70937.jpg	3 6 1 - 2 5 0 = 1 1 1
+train_108644.jpg	= - 8 + 8
+train_66928.jpg	= 2 0 7 2
+train_73567.jpg	= 1 5
+train_98149.jpg	9 - 5 = 4
+train_69787.jpg	2 1 - 2 = 1 9
+train_68544.jpg	1 0 5 - 1 = 1 0 4
+train_72390.jpg	4 9 + 4 = 5 3
+train_74859.jpg	1 0 7
+train_110332.jpg	= - 9 + 8 + 1
+train_72144.jpg	3 7
+train_66359.jpg	= 4 + 3 - 6 + 9
+train_101849.jpg	2 1 + 3 2 = 5 3
+train_110984.jpg	x = 3
+train_74479.jpg	3 7
+train_76644.jpg	2 5 7 - 1 3 3 = 1 2 4
+train_109517.jpg	= 2 + 3 + 4 + 5 + 6 + 7
+train_68188.jpg	6
+train_65093.jpg	2 7
+train_73290.jpg	7 9
+train_65723.jpg	4 5 - 1 7 = 2 8
+train_104062.jpg	= - 6 9
+train_60615.jpg	2 3 6 3
+train_66060.jpg	2 2
+train_71880.jpg	= 3
+train_77526.jpg	4 1 - 2 3 = 1 8
+train_109552.jpg	x = 5
+train_111442.jpg	4
+train_64707.jpg	1 2 3 4 5 6 7
+train_65328.jpg	8 4 8 - 7 9 1 = 5 7
+train_107722.jpg	= 8
+train_75164.jpg	1 9 7 4
+test_24063.jpg	x = 5
+train_108285.jpg	4 - 3 = 1
+train_76692.jpg	x = 2 4
+train_65375.jpg	1 0 5
+train_71969.jpg	3 0 0 2 4 3 2 0 5
+train_68697.jpg	4
+train_111794.jpg	3 + 5 = 8
+train_104808.jpg	= - 1 5
+train_45430.jpg	3 2 3 9 4 0
+train_102832.jpg	= 1
+train_13650.jpg	x = 1
+train_65026.jpg	4 1 - 1 6 = 2 5
+train_100565.jpg	3 5 0 + 5 8 0 = 9 3 0
+train_72719.jpg	1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 1 0 = 5 5
+train_79543.jpg	3 5 0 + 5 8 0 = 9 3 0
+train_72470.jpg	2 3 = 1 8
+train_66512.jpg	= 1 + 3 + 2 0 + 2 0 + 5
+train_72214.jpg	4 5 - 1 7 = 2 8
+train_2848.jpg	7 5 + 7 = 8 2
+train_110585.jpg	= - 6 9
+train_64653.jpg	7 4 - 2 = 7 2
+train_71263.jpg	3 2
+train_50338.jpg	1 7 0 + 9 0 = 2 6 0
+train_104515.jpg	= 1 0 0 0 - 2 8 5 = 7 1 5
+train_66967.jpg	1 2
+train_64007.jpg	4 4 + 1 0 + 1
+train_73816.jpg	1 1 4 7 6
+train_63688.jpg	4 3 - 7 = 3 6
+train_63525.jpg	4 9 + 1 + 1 + 1 + 1 = 5 3
+train_65150.jpg	1 2 3 5 8 1 3 2 1 3 5
+train_47935.jpg	= 3 4 6 + 2 0 0 + 5 0 + 5 = 5 4 6 + 5 0 + 5 = 5 9 6 + 5 = 6 0 1
+train_61080.jpg	3 + 3 = 6
+train_64892.jpg	1 9
+train_70220.jpg	4 3 - 7 = 3 6
+train_44745.jpg	2 4 - 5 = 1 9
+train_112246.jpg	1 5 + 3 = 1 8
+train_105654.jpg	= - 7
+train_109013.jpg	x = 0
+train_69884.jpg	3 1 0 - 1 2 5 = 1 8 5
+train_107931.jpg	= - 2
+train_73156.jpg	+ 3 + 3 + 3 + 3
+train_71197.jpg	4 1 - 2 3 = 1 8
+train_69769.jpg	3 3 7 - 2 2 9 = 1 0 8
+train_109206.jpg	= - 2
+train_66006.jpg	= 1 0
+train_94568.jpg	5 5 + 3 2 = 8 7
+train_73596.jpg	2 0 1 5 0 1 5 0
+train_110310.jpg	- 4 - 1 4 = - 1 8
+train_111469.jpg	2 2 2 2 2
+train_75476.jpg	4 9
+train_80596.jpg	= 2 7 + 5 0
+train_103692.jpg	= - 8 1 + 1 2
+train_69533.jpg	5 3 - 3 = 5 0
+train_64346.jpg	3 0 0 - 2 0 5 = 9 5
+train_71908.jpg	4 2 8
+train_75060.jpg	= 8 0 - 6 8
+train_66772.jpg	4 3 - 7 = 3 6
+train_73492.jpg	2 4 3 - 2 0 5 = 3 8
+test_18890.jpg	= 3 7 3 -
+train_69035.jpg	5 - 4 = 1
+train_111375.jpg	8 4 8 - 7 9 1 = 5 7
+train_75401.jpg	= 4 + 2 7
+train_60942.jpg	3 2 + 5 2 = 8 4
+train_64101.jpg	8 1 + 7 = 8 8
+train_71036.jpg	3 0 0 2 6 2 2 0 5
+train_71291.jpg	2 4 3 - 2 0 5 = 3 8
+train_72405.jpg	9 0
+train_67094.jpg	7 - 6 = 1
+train_96411.jpg	7 7 - 1 1 = 6 6
+train_77940.jpg	= 8 1
+train_63768.jpg	1 8 0
+train_65684.jpg	= 3 6
+train_72429.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_77022.jpg	= 7 3 - 1 9
+train_71018.jpg	3 5 0 4 6 7 5 4 5
+train_63099.jpg	1 2
+train_1866.jpg	1 6 5 - 5 9 + 6 5 = 1 6 5 - 6 5 + 5 9
+train_87827.jpg	2 5 + 2 8 = 5 3
+train_68461.jpg	= 2 + 2 7
+train_68413.jpg	3 0 0 - 2 1 0 = 9 0
+train_69039.jpg	2 5
+train_68381.jpg	3 0 0 - 2 0 5 = 9 5
+train_73850.jpg	= 1 0 8
+train_64585.jpg	6 5 + 8 = 1 3
+train_5090.jpg	1
+train_105530.jpg	2 - 1 = 3 - 2 = 5 - 4 = 1
+train_63627.jpg	5 3 - 3 = 5 0
+train_70502.jpg	4 3 - 7 = 3 6
+train_90389.jpg	5 5 + 3 2 = 8 7
+train_71275.jpg	2 4 5 - 2 = 2 4 3
+train_55474.jpg	1 0 0 + 1 3 0 + 1 0 = 2 4 0 9 0 0 + 9 0 + 1 4 = 1 0 0 4
+train_67762.jpg	= 2 0 9
+train_108770.jpg	= - 2 6
+train_107363.jpg	= - 4
+test_4828.jpg	x = - 2
+train_77135.jpg	6
+train_105357.jpg	= 1 3
+train_98510.jpg	8
+train_63163.jpg	8 3
+train_62060.jpg	4 - 3 = 1
+train_109127.jpg	x = 5
+train_72136.jpg	1 + 3 + 5 + 7 + 9 + 1 1 + 1 3 = 4 9
+train_34397.jpg	9 = 4
+train_73734.jpg	2 5 0
+train_65739.jpg	3 1 + 4 = 3 5
+train_63010.jpg	1 0 0 0 - 7 9 1 = 2 0 9
+train_71545.jpg	3 3 - 1 1 = 2 2
+train_63260.jpg	3 5 0 4 6 4 5 4 0
+train_67293.jpg	3 7 - 2 = 3 5
+train_68271.jpg	1 2 5 - 5 1 = 7 4
+train_71575.jpg	4
+train_13399.jpg	1 8 + 1 = 1 9
+train_70192.jpg	1 3 - 3 = 1 0
+train_103714.jpg	= - 1 + 2 + 1
+train_5115.jpg	7 1 0 - 5 9 1 =
+test_17526.jpg	8 8 - 2 0 - 4 0 = 2 8
+train_74155.jpg	3 5 = 1 , 5 , 7 , 3 5
+train_104423.jpg	= 0
+train_104687.jpg	- 4 - 1 4 = - 1 8
+train_71448.jpg	2 4 5 - 2 = 2 4 3
+train_85556.jpg	4 + 4 + 4 + 4 + 4 = 2 0
+train_64083.jpg	3 0 0 - 2 6 2 = 3 8
+train_67628.jpg	2 4 5 - 2 = 2 4 3
+train_73063.jpg	0 0 0 0 0 0 0 0
+train_99752.jpg	3 6
+train_78474.jpg	5 4 + 3 0 = 8 4
+train_66891.jpg	8 8 - 8 1 = 7
+test_8115.jpg	1 2 - 2 = 1 0
+train_106135.jpg	= - 2 - 4
+train_73753.jpg	4 1 - 1 1 = 3 0
+train_71809.jpg	1 2 1
+train_105939.jpg	3 5 + 4 = 3 9
+train_40197.jpg	3 0 + 9 = 3
+train_62384.jpg	4 4 0 + 6 4 4 = 1 0 8 4
+train_105125.jpg	= - 9
+train_110903.jpg	7 4 - 2 = 7 2
+train_77252.jpg	7 + 5 + 6 = 1 5
+train_74601.jpg	5 1
+train_109472.jpg	= 2 0 4 8 3 8 4 5 2 0
+train_75231.jpg	1 0 8
+train_106888.jpg	2 0 3 0 - 2 0 2 0 = 1 0
+train_73551.jpg	5 4 8 1
+train_75835.jpg	2 6 2 - 2 0 5 = 5 7
+train_72824.jpg	2 5
+train_65896.jpg	= 1
+train_70309.jpg	3 5 0 4 6 4 5 4 0
+train_102644.jpg	= 6 5 0
+train_40136.jpg	4 3 9 + 5 = 4 4 4 4 4 4 - 5 = 4 3 9 6 4 0 - 1 6 0 = 4 8 0 4 0 8 - 9 = 3 9 9 1 5 0 + 2 7 0
+train_108926.jpg	x = 2
+train_22672.jpg	x + 1 6 = 1 3 2 + 1 6 = 1 4 8
+train_98120.jpg	= 6 1 - 3 7
+train_6450.jpg	1 6 - 8 =
+train_74783.jpg	5 3 - 3 = 5 0
+train_104232.jpg	- 3 - 2 1 2 3
+train_103516.jpg	x = 1
+train_66864.jpg	2 3 - 1 1 = 1 2
+train_107980.jpg	= 0
+train_63587.jpg	3 2
+train_105262.jpg	5 + 1 = 6
+train_25873.jpg	7 0 6 - 1 4 9 = 5 5 7 3 0 0 - 9 8 = 2 0 2
+train_77394.jpg	= 8 1 - 6 2
+train_76905.jpg	6 4 + 3 3 = 9 7
+train_75895.jpg	2 4 5 - 2 = 2 4 3
+train_77546.jpg	3 0 0 - 2 6 2 = 3 8
+train_73303.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_70093.jpg	= 2 0 + 1
+train_68378.jpg	= 1 0 5 - 1
+train_66969.jpg	= 2 6
+train_88201.jpg	8 7 - 7 1 = 1 6
+train_110190.jpg	5 + 1 + 1 + 1 + 2 + 1 + 1 + 1 + 2 = 1 5
+train_105492.jpg	= - 9 + - 8 + 1
+train_67601.jpg	3 0 0 - 2 6 2 = 3 8
+train_75263.jpg	- 2 = 2
+train_70625.jpg	= 8 3
+train_66177.jpg	= - 2 1 + 1 2 - 2 8 + 1 6
+train_81384.jpg	6 7 - 5 5 = 1 2
+train_68684.jpg	4 2 9 - 5 = 4 2 4
+train_63883.jpg	2 6 2 - 2 0 5 = 5 7
+train_108487.jpg	- 9 + 8 + 1
+train_70368.jpg	3 4 8 6 + 3 4 8 5 = 6 9 7 0
+train_64406.jpg	2 6
+train_111384.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_109436.jpg	x = 5
+train_74826.jpg	5 0 + 3 = 5 3
+train_72210.jpg	8 4 8 - 7 9 1 = 5 7
+train_64714.jpg	3 2 3 2
+train_69452.jpg	2 6
+train_65412.jpg	x = 2
+train_111090.jpg	2 4 5 - 2 = 2 4 3
+train_74320.jpg	1 1 4 7 6
+train_23020.jpg	1 0 0 + 1 3 0 + 1 0 = 2 4 0 9 0 0 + 9 0 + 1 4 = 9 9 4
+train_71160.jpg	7 0 - 1 9 = 5 1
+train_63719.jpg	2 3 2 7 3 3
+train_102963.jpg	= 1
+train_71176.jpg	5 3 - 3 = 5 0
+train_73036.jpg	4 6 4 - 3 5 0 = 1 1 4
+train_101577.jpg	8 7 - 7 1 = 1 6
+train_87534.jpg	2 7 3 0
+train_69493.jpg	1 , 2 1 6
+train_111935.jpg	4 3 2 0 7 2 4
+train_74700.jpg	3 3 3 3 1
+train_7310.jpg	x = 2
+train_104545.jpg	= 1 + 0 + 4 + 1 + 5
+train_73874.jpg	2 0 + 5 = 2 5
+train_106506.jpg	= 3 7
+train_67561.jpg	= 2 4 7 0
+train_64201.jpg	x = 1 9
+train_68542.jpg	2

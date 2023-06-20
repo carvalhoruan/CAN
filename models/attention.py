@@ -8,9 +8,10 @@ class Attention(nn.Module):
         self.params = params
         self.hidden = params['decoder']['hidden_size']
         self.attention_dim = params['attention']['attention_dim']
+        print('self.attention_dim', self.attention_dim)
         self.hidden_weight = nn.Linear(self.hidden, self.attention_dim)
-        self.attention_conv = nn.Conv2d(1, 512, kernel_size=11, padding=5, bias=False)
-        self.attention_weight = nn.Linear(512, self.attention_dim, bias=False)
+        self.attention_conv = nn.Conv2d(1, self.attention_dim, kernel_size=11, padding=5, bias=False)
+        self.attention_weight = nn.Linear(self.attention_dim, self.attention_dim, bias=False)
         self.alpha_convert = nn.Linear(self.attention_dim, 1)
 
     def forward(self, cnn_features, cnn_features_trans, hidden, alpha_sum, image_mask=None):

@@ -23,8 +23,8 @@ class Inference(nn.Module):
         self.encoder = DenseNet(params=self.params)
         self.in_channel = params['counting_decoder']['in_channel']
         self.out_channel = params['counting_decoder']['out_channel']
-        self.counting_decoder1 = counting_decoder(self.in_channel, self.out_channel, 3)
-        self.counting_decoder2 = counting_decoder(self.in_channel, self.out_channel, 5)
+        self.counting_decoder1 = counting_decoder(self.in_channel, self.out_channel, 3, params['attention']['attention_dim'])
+        self.counting_decoder2 = counting_decoder(self.in_channel, self.out_channel, 5, params['attention']['attention_dim'])
         self.device = params['device']
         self.decoder = decoder_dict[params['decoder']['net']](params=self.params)
 
@@ -106,7 +106,7 @@ class AttDecoder(nn.Module):
         image_mask = torch.ones((batch_size, 1, height, width)).to(self.device)
         
         cnn_features_trans = self.encoder_feature_conv(cnn_features)
-        position_embedding = PositionEmbeddingSine(256, normalize=True)
+        position_embedding = PositionEmbeddingSine(self.attention_dim/2, normalize=True)
         pos = position_embedding(cnn_features_trans, image_mask[:,0,:,:])
         cnn_features_trans = cnn_features_trans + pos
 

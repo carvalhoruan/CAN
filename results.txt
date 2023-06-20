@@ -1,0 +1,82 @@
+Total trials: 104
+Unique configs: 40
+Total valid trials: 101
+1 0.26956521739130435 0.29968477452679476 0.0 0.8695652173913043 10
+2 0.20652173913043478 0.20652173913043478 0.0 0.41304347826086957 2
+3 0.17902813299232737 0.26071280581687567 0.0 0.717391304347826 17
+4 0.16149068322981366 0.18695548997878772 0.0 0.391304347826087 7
+5 0.1358695652173913 0.17719391724892508 0.0 0.391304347826087 8
+6 0.041304347826086954 0.06767122789684078 0.0 0.1956521739130435 10
+7 0.0 0.0 0.0 0.0 1
+8 0.0 0.0 0.0 0.0 1
+9 0.0 0.0 0.0 0.0 1
+10 0.0 0.0 0.0 0.0 1
+11 0.0 0.0 0.0 0.0 1
+12 0.0 0.0 0.0 0.0 1
+13 0.0 0.0 0.0 0.0 1
+14 0.0 0.0 0.0 0.0 3
+15 0.0 0.0 0.0 0.0 1
+16 0.0 0.0 0.0 0.0 1
+17 0.0 0.0 0.0 0.0 1
+18 0.0 0.0 0.0 0.0 1
+19 0.0 0.0 0.0 0.0 1
+20 0.0 0.0 0.0 0.0 3
+21 0.0 0.0 0.0 0.0 6
+22 0.0 0.0 0.0 0.0 2
+23 0.0 0.0 0.0 0.0 1
+24 0.0 0.0 0.0 0.0 1
+25 0.0 0.0 0.0 0.0 1
+26 0.0 0.0 0.0 0.0 1
+27 0.0 0.0 0.0 0.0 1
+28 0.0 0.0 0.0 0.0 1
+29 0.0 0.0 0.0 0.0 1
+30 0.0 0.0 0.0 0.0 1
+31 0.0 0.0 0.0 0.0 1
+32 0.0 0.0 0.0 0.0 1
+33 0.0 0.0 0.0 0.0 1
+34 0.0 0.0 0.0 0.0 1
+35 0.0 0.0 0.0 0.0 1
+36 0.0 0.0 0.0 0.0 1
+37 0.0 0.0 0.0 0.0 2
+38 0.0 0.0 0.0 0.0 2
+39 0.0 0.0 0.0 0.0 1
+
+1 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 16, 'reduction': 0.5, 'use_dropout': True}
+2 {'attention_dim': 512, 'bottleneck': False, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 24, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': True}
+3 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 16, 'reduction': 0.5, 'use_dropout': True}
+4 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 128, 'growthRate': 24, 'nDenseBlocks': 16, 'reduction': 0.5, 'use_dropout': True}
+5 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 8, 'reduction': 0.5, 'use_dropout': True}
+6 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 16, 'reduction': 0.5, 'use_dropout': False}
+7 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': True}
+8 {'attention_dim': 512, 'bottleneck': False, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 8, 'nDenseBlocks': 16, 'reduction': 0.1, 'use_dropout': True}
+9 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 16, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': False}
+10 {'attention_dim': 128, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 256, 'growthRate': 16, 'nDenseBlocks': 8, 'reduction': 0.1, 'use_dropout': True}
+11 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 10, 'decoder_input_size': 256, 'growthRate': 16, 'nDenseBlocks': 16, 'reduction': 0.5, 'use_dropout': True}
+12 {'attention_dim': 128, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 256, 'growthRate': 16, 'nDenseBlocks': 8, 'reduction': 0.5, 'use_dropout': False}
+13 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 16, 'nDenseBlocks': 8, 'reduction': 0.1, 'use_dropout': True}
+14 {'attention_dim': 512, 'bottleneck': False, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 16, 'reduction': 0.5, 'use_dropout': True}
+15 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 128, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.1, 'use_dropout': False}
+16 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 10, 'decoder_input_size': 256, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.2, 'use_dropout': True}
+17 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 10, 'decoder_input_size': 128, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.1, 'use_dropout': False}
+18 {'attention_dim': 128, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 256, 'growthRate': 24, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': True}
+19 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 10, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': False}
+20 {'attention_dim': 512, 'bottleneck': False, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.2, 'use_dropout': True}
+21 {'attention_dim': 128, 'bottleneck': False, 'data_augmentation': 100, 'decoder_input_size': 128, 'growthRate': 16, 'nDenseBlocks': 4, 'reduction': 0.2, 'use_dropout': False}
+22 {'attention_dim': 128, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 256, 'growthRate': 16, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': False}
+23 {'attention_dim': 128, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 16, 'nDenseBlocks': 4, 'reduction': 0.1, 'use_dropout': False}
+24 {'attention_dim': 128, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 256, 'growthRate': 24, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': False}
+25 {'attention_dim': 256, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 64, 'growthRate': 16, 'nDenseBlocks': 8, 'reduction': 0.1, 'use_dropout': True}
+26 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 128, 'growthRate': 16, 'nDenseBlocks': 16, 'reduction': 0.2, 'use_dropout': False}
+27 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 8, 'nDenseBlocks': 16, 'reduction': 0.1, 'use_dropout': True}
+28 {'attention_dim': 128, 'bottleneck': False, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 16, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': False}
+29 {'attention_dim': 128, 'bottleneck': True, 'data_augmentation': 10, 'decoder_input_size': 64, 'growthRate': 16, 'nDenseBlocks': 16, 'reduction': 0.1, 'use_dropout': True}
+30 {'attention_dim': 256, 'bottleneck': False, 'data_augmentation': 100, 'decoder_input_size': 128, 'growthRate': 24, 'nDenseBlocks': 8, 'reduction': 0.2, 'use_dropout': True}
+31 {'attention_dim': 512, 'bottleneck': False, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.2, 'use_dropout': False}
+32 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.2, 'use_dropout': True}
+33 {'attention_dim': 512, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 128, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.1, 'use_dropout': True}
+34 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 8, 'nDenseBlocks': 4, 'reduction': 0.2, 'use_dropout': False}
+35 {'attention_dim': 512, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 256, 'growthRate': 24, 'nDenseBlocks': 4, 'reduction': 0.5, 'use_dropout': True}
+36 {'attention_dim': 256, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 8, 'reduction': 0.5, 'use_dropout': True}
+37 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 10, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 16, 'reduction': 0.1, 'use_dropout': True}
+38 {'attention_dim': 512, 'bottleneck': True, 'data_augmentation': 100, 'decoder_input_size': 256, 'growthRate': 24, 'nDenseBlocks': 16, 'reduction': 0.5, 'use_dropout': True}
+39 {'attention_dim': 512, 'bottleneck': False, 'data_augmentation': 10, 'decoder_input_size': 64, 'growthRate': 24, 'nDenseBlocks': 16, 'reduction': 0.5, 'use_dropout': True}

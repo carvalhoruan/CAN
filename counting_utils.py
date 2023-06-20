@@ -10,7 +10,8 @@ def gen_counting_label(labels, channel, tag):
     device = labels.device
     counting_labels = torch.zeros((b, channel))
     if tag:
-        ignore = [0, 1, 21, 20]
+        #ignore = [0, 1, 6, 7, 19] #nossa base
+        ignore = [0, 1, 18] #hme7k
     else:
         ignore = []
     for i in range(b):
