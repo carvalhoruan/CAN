@@ -45,6 +45,7 @@ model = model.to(device)
 
 load_checkpoint(model, None, params['checkpoint'])
 print(params['checkpoint'])
+print(params['checkpoint'])
 model.eval()
 
 with open(args.image_path, 'rb') as f:
@@ -68,6 +69,8 @@ with torch.no_grad():
         img = images[name]
         #img = torch.Tensor(255-img) / 255
         img = torch.Tensor(img) / 255
+        #img = torch.Tensor(255-img) / 255
+        img = torch.Tensor(img) / 255
         img = img.unsqueeze(0).unsqueeze(0)
         img = img.to(device)
         a = time.time()
@@ -82,6 +85,7 @@ with torch.no_grad():
         model_time += (time.time() - a)
 
         prediction = words.decode(probs)
+        prediction = prediction.replace(' eos', '')
         prediction = prediction.replace(' eos', '')
         if prediction == labels:
             line_right += 1
