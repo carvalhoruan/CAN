@@ -3,8 +3,11 @@ experiment: "CAN"
 
 # 随机种子
 seed: 20242024
+seed: 20242024
 
 # 训练参数
+epochs: 500
+batch_size: 8
 epochs: 500
 batch_size: 8
 workers: 0
@@ -32,7 +35,11 @@ use_label_mask: False
 # 训练数据
 train_image_path: 'datasets/optuna/train_image.pkl'
 train_label_path: 'datasets/optuna/train_labels.txt'
+train_image_path: 'datasets/optuna/train_image.pkl'
+train_label_path: 'datasets/optuna/train_labels.txt'
 
+eval_image_path: 'datasets/optuna/test_image.pkl'
+eval_label_path: 'datasets/optuna/test_labels.txt'
 eval_image_path: 'datasets/optuna/test_image.pkl'
 eval_label_path: 'datasets/optuna/test_labels.txt'
 
@@ -56,15 +63,15 @@ encoder:
 decoder:
   net: AttDecoder
   cell: 'GRU'
-  input_size: 256
-  hidden_size: 256
+  input_size: 64
+  hidden_size: 64
 
 counting_decoder:
   in_channel: 180
   out_channel: 20
 
 attention:
-  attention_dim: 512
+  attention_dim: 256
   word_conv_kernel: 1
 
 attention_map_vis_path: 'vis/attention_map'
@@ -78,4 +85,5 @@ finetune: False
 checkpoint_dir: 'checkpoints'
 checkpoint: "checkpoints/optuna_2_2023-06-18-22-17/optuna_2_2023-06-18-22-17_WordRate-0.9268_ExpRate-0.3696_170.pth"
 log_dir: 'logs'
+data_augmentation: 100
 data_augmentation: 100
