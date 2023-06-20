@@ -78,6 +78,8 @@ class AttDecoder(nn.Module):
         if params['dropout']:
             self.dropout = nn.Dropout(params['dropout_ratio'])
 
+        self.num_pos_feats = params['attention']['attention_dim']/2
+
     def forward(self, cnn_features, labels, counting_preds, images_mask, labels_mask, is_train=True):      
         batch_size, num_steps = labels.shape
         height, width = cnn_features.shape[2:]
@@ -98,7 +100,7 @@ class AttDecoder(nn.Module):
         #print("\n\nCNN FEATURES_TRANS: " + str(cnn_features_trans.size()))
         
         #era 256 abaixo: troquei por 64. Deve ser metade de attention_dim
-        position_embedding = PositionEmbeddingSine(256, normalize=True)
+        position_embedding = PositionEmbeddingSine(self.num_pos_feats, normalize=True)
         pos = position_embedding(cnn_features_trans, images_mask[:,0,:,:])
         
         #print("\n\POS: " + str(pos.size()))

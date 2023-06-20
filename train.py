@@ -41,9 +41,10 @@ params['device'] = device
 if args.dataset == 'CROHME':
     train_loader, eval_loader = get_crohme_dataset(params)
     
-#with tqdm(train_loader, total=len(train_loader)) as pbar:
+# with tqdm(train_loader, total=len(train_loader)) as pbar:
 #    for batch_idx, (images, image_masks, labels, label_masks) in enumerate(pbar):
 #        for batch_i in range(images.numpy().shape[0]):
+#            print(images.numpy()[batch_i,0,:,:].shape)
 #            cv2.imshow('image', images.numpy()[batch_i,0,:,:])
 #            cv2.waitKey()
 
@@ -86,6 +87,6 @@ if args.dataset == 'CROHME':
                 min_score = eval_exprate
                 save_checkpoint(model, optimizer, eval_word_score, eval_exprate, epoch+1,
                                 optimizer_save=params['optimizer_save'], path=params['checkpoint_dir'])
-            elif (epoch % 5 == 0) and epoch > 0:
-                save_checkpoint(model, optimizer, eval_word_score, eval_exprate, epoch+1,
-                                optimizer_save=params['optimizer_save'], path=params['checkpoint_dir'])
+            #elif (epoch % 5 == 0) and epoch > 0:
+            #    save_checkpoint(model, optimizer, eval_word_score, eval_exprate, epoch+1,
+            #                    optimizer_save=params['optimizer_save'], path=params['checkpoint_dir'])

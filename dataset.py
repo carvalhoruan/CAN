@@ -4,6 +4,7 @@ import pickle as pkl
 from torch.utils.data import DataLoader, Dataset, RandomSampler
 # TESTE-----------------
 import torchvision
+import cv2
 # ----------------------
 
 
@@ -46,11 +47,13 @@ class HMERDataset(Dataset):
         name, *labels = self.labels[idx].strip().split()
         #name = name.split('.')[0] if name.endswith('jpg') else name
         image = self.images[name]
-        image = torch.Tensor(255-image) / 255
+        #image = torch.Tensor(255-image) / 255
+        image = torch.Tensor(image) / 255
         image = image.unsqueeze(0)
         labels.append('eos')
         words = self.words.encode(labels)
         words = torch.LongTensor(words)
+        
         
         # TESTE -----------------------------------------
         if self.transform:
@@ -63,33 +66,46 @@ class HMERDataset(Dataset):
 def get_crohme_dataset(params):
     words = Words(params['word_path'])
     params['word_num'] = len(words)
-    print(f"训练数据路径 images: {params['train_image_path']} labels: {params['train_label_path']}")
-    print(f"验证数据路径 images: {params['eval_image_path']} labels: {params['eval_label_path']}")
+    print(f"train images: {params['train_image_path']} labels: {params['train_label_path']}")
+    print(f"test images: {params['eval_image_path']} labels: {params['eval_label_path']}")
 
     train_dataset = HMERDataset(params, params['train_image_path'], params['train_label_path'], words, is_train=True)
     
     
     # TESTE-------------------------------------------------------
 
+    # transform = torchvision.transforms.Compose([
+    #     torchvision.transforms.ToPILImage(),
+    #     torchvision.transforms.RandomResizedCrop(size=(150, 150),
+    #                                              #scale=(0.8, 1.2), #original de sergio
+    #                                              scale=(0.7, 1.25),
+    #                                              #ratio=(3.0 / 4.0, 4.0 / 3.0)), #original de sergio
+    #                                              ratio=(0.65, 1.5)),
+    #     torchvision.transforms.RandomRotation(degrees=45), #original de sergio: degrees=30
+    #     torchvision.transforms.RandomAdjustSharpness(sharpness_factor=2, p=0.8), #original de sergio: sharpness_factor=2
+    #     torchvision.transforms.ElasticTransform(alpha=40.0, sigma=3.0), #original de sergio: alpha=40.0, sigma=3.0
+    #     # torchvision.transforms.RandomEqualize(),
+    #     torchvision.transforms.RandomPerspective(distortion_scale=0.4, p=0.6), #nova
+    #
+    #     torchvision.transforms.ToTensor()
+    # ])
+
     transform = torchvision.transforms.Compose([
         torchvision.transforms.ToPILImage(),
         torchvision.transforms.RandomResizedCrop(size=(150, 150),
-                                                 #scale=(0.8, 1.2), #original de sergio
-                                                 scale=(0.7, 1.25),
-                                                 #ratio=(3.0 / 4.0, 4.0 / 3.0)), #original de sergio
-                                                 ratio=(0.65, 1.5)),
-        torchvision.transforms.RandomRotation(degrees=45), #original de sergio: degrees=30
-        torchvision.transforms.RandomAdjustSharpness(sharpness_factor=2, p=0.8), #original de sergio: sharpness_factor=2
-        torchvision.transforms.ElasticTransform(alpha=40.0, sigma=3.0), #original de sergio: alpha=40.0, sigma=3.0
+                                                 scale=(0.8, 1.2),
+                                                 ratio=(3.0 / 4.0, 4.0 / 3.0)),
+        torchvision.transforms.RandomRotation(degrees=30),
+        torchvision.transforms.RandomAdjustSharpness(sharpness_factor=2),
+        torchvision.transforms.ElasticTransform(alpha=40.0, sigma=3.0),
         # torchvision.transforms.RandomEqualize(),
-        torchvision.transforms.RandomPerspective(distortion_scale=0.4, p=0.6), #nova
 
         torchvision.transforms.ToTensor()
     ])
 
     datasets_list = [train_dataset]
 
-    for i in range(100):
+    for i in range(params['data_augmentation']):
         train_dataset_transformed = HMERDataset(params, params['train_image_path'], params['train_label_path'], words, is_train=True,
                                                   transform=transform)
         datasets_list.append(train_dataset_transformed)

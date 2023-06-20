@@ -16,8 +16,8 @@ class CAN(nn.Module):
         self.encoder = DenseNet(params=self.params)
         self.in_channel = params['counting_decoder']['in_channel']
         self.out_channel = params['counting_decoder']['out_channel']
-        self.counting_decoder1 = counting_decoder(self.in_channel, self.out_channel, 3)
-        self.counting_decoder2 = counting_decoder(self.in_channel, self.out_channel, 5)
+        self.counting_decoder1 = counting_decoder(self.in_channel, self.out_channel, 3, params['attention']['attention_dim'])
+        self.counting_decoder2 = counting_decoder(self.in_channel, self.out_channel, 5, params['attention']['attention_dim'])
         self.decoder = getattr(models, params['decoder']['net'])(params=self.params)
         self.cross = nn.CrossEntropyLoss(reduction='none') if self.use_label_mask else nn.CrossEntropyLoss()
         self.counting_loss = nn.SmoothL1Loss(reduction='mean')
@@ -27,6 +27,15 @@ class CAN(nn.Module):
 
     def forward(self, images, images_mask, labels, labels_mask, is_train=True):
         cnn_features = self.encoder(images)
+
+        #print('\n\nENCODER INPUT: ')
+        #print(type(images))
+        #print(images.shape)
+
+        #print('\n\n ENCODER OUTPUT: ')
+        #print(type(cnn_features))
+        #print(cnn_features.shape)
+
         counting_mask = images_mask[:, :, ::self.ratio, ::self.ratio]
         
         #print("\nRATIO: " + str(self.ratio))

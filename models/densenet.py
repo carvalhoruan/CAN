@@ -72,7 +72,7 @@ class DenseNet(nn.Module):
         #nDenseBlocks = params['densenet']['ratio'] #novo
         
         #nDenseBlocks = 16
-        nDenseBlocks = 8
+        nDenseBlocks = params['densenet']['nDenseBlocks']
         nChannels = 2 * growthRate
         self.conv1 = nn.Conv2d(params['encoder']['input_channel'], nChannels, kernel_size=7, padding=3, stride=2, bias=False)
         self.dense1 = self._make_dense(nChannels, growthRate, nDenseBlocks, bottleneck, use_dropout)
